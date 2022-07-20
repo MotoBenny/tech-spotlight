@@ -1,6 +1,5 @@
 import requests
 import urllib
-from urllib.parse import urlparse
 from bs4 import BeautifulSoup
 import time
 import random
@@ -52,7 +51,8 @@ def job_soup(job_url):
 
 def sleepy_pill():
     """
-    gets a random sleep time, between 240 and 360 seconds, prints a sleep message to terminal.
+    gets a random sleep time, between 240 and 360 seconds,
+    prints a sleep message to terminal.
     :return: None
     """
     sleep_time = random.randint(240, 360)
@@ -63,7 +63,8 @@ def sleepy_pill():
 
 def get_input():
     """
-    Function called during scrape execution, this forces a pause to get user input, Helping to avoid rate limit.
+    Function called during scrape execution, this forces a
+    pause to get user input, Helping to avoid rate limit.
     Asks if user wants to continue or stop the scrape.
     :return: None
     """
@@ -94,7 +95,8 @@ def get_input():
 
 def nonetype_received(scrapes, scraped_jobs):
     """
-    returns a message informing the user about the failed scrape, includes information about the scrape,
+    returns a message informing the user about the failed scrape,
+    includes information about the scrape,
     exits the script.
     :param scrapes: the attempted total jobs to scrape: int
     :param scraped_jobs: the num of jobs successfully scraped: Int
@@ -222,7 +224,10 @@ def main():
     raw_file_path = f"{filename}.txt"
     csv_file_path = f"{filename}_terms.csv"
     write_data(
-        f"/Users/bencarter/projects/Code401/tech-spotlight/tech_spotlight/{raw_file_path}",
+        (
+            "/Users/bencarter/projects/Code401/"
+            f"tech-spotlight/tech_spotlight/{raw_file_path}"
+        ),
         "/Users/bencarter/projects/Code401/tech-spotlight/datasets/tech_list.txt",
         csv_file_path,
     )
@@ -240,7 +245,9 @@ def main():
 
 def scraper(job_title, location, age, scrapes, filename):
     """
-    Main application function, calls all other functions to perform the requested job scrape.
+    Main application function, calls all other functions to perform the
+    requested job scrape.
+
     :param job_title: string
     :param location: string
     :param age: string
@@ -284,7 +291,8 @@ def scraper(job_title, location, age, scrapes, filename):
                     with open(file, "a+", encoding="utf-8") as f:
                         f.write(description)
                         f.write(
-                            "\n \n _________________________________New Job______________________________ \n \n "
+                            "\n \n _________________________________"
+                            "New Job______________________________ \n \n "
                         )
                     print(str(job_id) + " Num scraped: " + str(scraped_jobs))
                     if scraped_jobs == scrapes:

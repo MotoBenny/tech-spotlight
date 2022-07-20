@@ -39,7 +39,8 @@ def open_terms(terms_file):
     return tech_terms
 
 
-# TODO: refactor this for loop, perhaps map over the patterns rather than the if else statements.
+# TODO: refactor this for loop, perhaps map over the
+# cont: patterns rather than the if else statements.
 def get_terms(read_file, terms_file):
     """
     Function calls open_text() and open_terms() functions
