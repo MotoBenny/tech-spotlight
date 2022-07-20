@@ -1,6 +1,6 @@
 [project]
 name = "tech_spotlight"
-version = "1.0.0"
+version = "1.0.1"
 description = "The goal of this project is to search through relevant job postings and find the frequency of technologies associated with those jobs."
 authors = [
     {name = "Benjamin", email = "benj.james.carter@gmail.com"},
