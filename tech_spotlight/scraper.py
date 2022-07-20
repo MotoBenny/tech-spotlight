@@ -17,6 +17,59 @@ TODO: rename function/methods for readability
 TODO: refactor control flow prints as variables to call within application flow.
 """
 
+welcome_str = """
+        >>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<
+        >>>>>>>>>>> Welcome to the Tech Spotlight <<<<<<<<<<
+        >>> This tool, scrapes indeed for a given search <<<
+        >>> query, returning both a raw text file, and   <<<
+        >>> a processed .CSV file, containing the number <<<
+        >>> of times a given term appears in the raw     <<<
+        >>> text.                                        <<<
+        >>>                                              <<<
+        >>> If you would like to see the technologies we <<<
+        >>> are counting, the list is under /datasets as <<<
+        >>> tech_list.txt                                <<<
+        >>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<
+    """
+search_query_str = """
+    > Please enter a development job title to search for,
+    i.e. 'software developer', 'software engineer',
+    'dev ops engineer' etc.
+    > """
+location_query_str = """
+    > Please enter a location to search, i.e. 'remote',
+    'seattle', 'chicago' etc.
+    > """
+age_query_str = """
+    > Please enter a job post age to scrape, accepted inputs
+    are as follows:
+    '1' for postings within the last 24 hours
+    '3' for postings within the last 3 days
+    '5' for postings within the last 5 days
+    '7' for postings within the last 7 days
+    > """
+scrape_num_query_str = """
+    > Please enter a number of jobs to scrape,
+    this determines the size of the dataset,
+    keep in mind the larger the dataset the longer
+    the scrape will take.
+
+    example: a scrape of 900 jobs will take
+    over an hour in most cases, and runs the risk
+    of being stopped by indeed. Consider using a
+    VPN if scraping more than 300 jobs.
+    ---> The scraper will pause for a number of
+    minutes every 100 jobs. <---
+
+    Please enter a number of jobs to scrape > """
+file_query_str = """
+    > Please enter output filename, raw file
+    will be a .txt file
+    !! You do not need to add the .txt extension !!
+    example input: dev_ops_Seattle_300_jobs
+    example output: dev_ops_Seattle_300_jobs.txt
+    > """
+
 
 def format_url(job_title, location, age, start):
     """
@@ -128,83 +181,18 @@ def main():
     :return: N/A Calls scraper
     """
     age_inputs = ["1", "3", "5", "7"]
-    print(
-        """
-        >>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<
-        >>>>>>>>>>> Welcome to the Tech Spotlight <<<<<<<<<<
-        >>> This tool, scrapes indeed for a given search <<<
-        >>> query, returning both a raw text file, and   <<<
-        >>> a processed .CSV file, containing the number <<<
-        >>> of times a given term appears in the raw     <<<
-        >>> text.                                        <<<
-        >>>                                              <<<
-        >>> If you would like to see the technologies we <<<
-        >>> are counting, the list is under /datasets as <<<
-        >>> tech_list.txt                                <<<
-        >>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<
-    """
-    )
-    job_tile = input(
-        """
-    > Please enter a development job title to search for,
-    i.e. 'software developer', 'software engineer',
-    'dev ops engineer' etc.
-    > """
-    )
-    location = input(
-        """
-    > Please enter a location to search, i.e. 'remote',
-    'seattle', 'chicago' etc.
-    > """
-    )
-    age = input(
-        """
-    > Please enter a job post age to scrape, accepted inputs
-    are as follows:
-    '1' for postings within the last 24 hours
-    '3' for postings within the last 3 days
-    '5' for postings within the last 5 days
-    '7' for postings within the last 7 days
-    > """
-    )
+    print(welcome_str)
+    job_tile = input(search_query_str)
+    location = input(location_query_str)
+    age = input(age_query_str)
+    # continue prompting for correct age input
     while age not in age_inputs:
         print(">>> Invalid post age received <<<")
-        age = input(
-            """
-        > Please enter a job post age to scrape, accepted inputs
-        are as follows:
-        '1' for postings within the last 24 hours
-        '3' for postings within the last 3 days
-        '5' for postings within the last 5 days
-        '7' for postings within the last 7 days
-        > """
-        )
-    scrapes = input(
-        """
-    > Please enter a number of jobs to scrape,
-    this determines the size of the dataset,
-    keep in mind the larger the dataset the longer
-    the scrape will take.
+        age = input(age_query_str)
+    scrapes = input(scrape_num_query_str)
+    filename = input(file_query_str)
 
-    example: a scrape of 900 jobs will take
-    over an hour in most cases, and runs the risk
-    of being stopped by indeed. Consider using a
-    VPN if scraping more than 300 jobs.
-    ---> The scraper will pause for a number of
-    minutes every 100 jobs. <---
-
-    Please enter a number of jobs to scrape > """
-    )
-    filename = input(
-        """
-    > Please enter output filename, raw file
-    will be a .txt file
-    !! You do not need to add the .txt extension !!
-    example input: dev_ops_Seattle_300_jobs
-    example output: dev_ops_Seattle_300_jobs.txt
-    > """
-    )
-
+    # all needed inputs received, begin scrape
     print(
         f"""
     Beginning scrape of Indeed.com for the following query
