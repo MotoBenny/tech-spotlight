@@ -18,7 +18,7 @@ TODO: refactor control flow prints as variables to call within application flow.
 """
 
 
-def soup_kitchen(job_title, location, age, start):
+def format_url(job_title, location, age, start):
     """
     Function receives args and formats URL query for each cycle through scraper.
     :param job_title: string
@@ -30,33 +30,36 @@ def soup_kitchen(job_title, location, age, start):
     get_vars = {"q": job_title, "l": location, "fromage": age, "start": start}
     url = "https://www.indeed.com/jobs?" + urllib.parse.urlencode(get_vars)
     print("your search URL: " + url)
-    soup = job_soup(url)
+    # soup = job_soup(url)
+    page = requests.get(url)
+    soup = BeautifulSoup(page.content, "html.parser")
     results = soup.find(class_="jobsearch-ResultsList")
     return results
 
 
-def job_soup(job_url):
-    """
-    uses requests to get page data to process with beautiful soup.
-    sleeps application for a random time between 0.1 and 1 second.
-    returns parsed instance of BS4 class element tag.
-    :param job_url: completed URL with
-    :return: BS4 object
-    """
-    page = requests.get(job_url)
-    post_soup = BeautifulSoup(page.content, "html.parser")
-    time.sleep(random.random())
-    return post_soup
+# deprecated function
+# def job_soup(job_url):
+#     """
+#     uses requests to get page data to process with beautiful soup.
+#     sleeps application for a random time between 0.1 and 1 second.
+#     returns parsed instance of BS4 class element tag.
+#     :param job_url: completed URL with
+#     :return: BS4 object
+#     """
+#     page = requests.get(job_url)
+#     post_soup = BeautifulSoup(page.content, "html.parser")
+#     time.sleep(random.random())
+#     return post_soup
 
 
-def sleepy_pill():
+def wait():
     """
     gets a random sleep time, between 240 and 360 seconds,
     prints a sleep message to terminal.
     :return: None
     """
     sleep_time = random.randint(240, 360)
-    print(f"nap for {sleep_time} this many zzzz's (seconds)")
+    print(f"waiting for {sleep_time} this long (seconds)")
     time.sleep(sleep_time)
     return
 
@@ -261,7 +264,7 @@ def scraper(job_title, location, age, scrapes, filename):
     job_id_set = set()
     break_time = 0
     while scraped_jobs < int(scrapes):
-        results = soup_kitchen(job_title, location, age, start)
+        results = format_url(job_title, location, age, start)
 
         if results is None:
             nonetype_received(scrapes, scraped_jobs)
@@ -271,7 +274,7 @@ def scraper(job_title, location, age, scrapes, filename):
 
             if break_time == 100:
                 break_time = 0
-                sleepy_pill()
+                wait()
 
             if scraped_jobs == 350 or scraped_jobs == 700:
                 get_input()
@@ -302,7 +305,8 @@ def scraper(job_title, location, age, scrapes, filename):
 
 def job_id_to_description(job_id):
     job_url = "https://www.indeed.com/viewjob?jk=" + str(job_id)
-    post_soup = job_soup(job_url)
+    page = requests.get(job_url)
+    post_soup = BeautifulSoup(page.content, "html.parser")
     description = post_soup.find(class_="jobsearch-jobDescriptionText")
     return description.text
 
