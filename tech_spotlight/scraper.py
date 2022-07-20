@@ -12,11 +12,13 @@ Global
 TODO: refactor with OOP structure
 TODO: typehint menthods/function
 TODO: add inline comments for vauge code or refactor for readability
-TODO: impliment pre-commit / commitizen.
-TODO: rename function/methods for readability
-TODO: refactor control flow prints as variables to call within application flow.
+TODO: impliment mock with testing for scraper.py
+DONE: impliment pre-commit / commitizen.
+DONE: rename function/methods for readability
+DONE: refactor control flow prints as variables to call within application flow.
 """
 
+# all strings here are used within Main function
 welcome_str = """
         >>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<
         >>>>>>>>>>> Welcome to the Tech Spotlight <<<<<<<<<<
@@ -83,38 +85,10 @@ def format_url(job_title, location, age, start):
     get_vars = {"q": job_title, "l": location, "fromage": age, "start": start}
     url = "https://www.indeed.com/jobs?" + urllib.parse.urlencode(get_vars)
     print("your search URL: " + url)
-    # soup = job_soup(url)
     page = requests.get(url)
     soup = BeautifulSoup(page.content, "html.parser")
     results = soup.find(class_="jobsearch-ResultsList")
     return results
-
-
-# deprecated function
-# def job_soup(job_url):
-#     """
-#     uses requests to get page data to process with beautiful soup.
-#     sleeps application for a random time between 0.1 and 1 second.
-#     returns parsed instance of BS4 class element tag.
-#     :param job_url: completed URL with
-#     :return: BS4 object
-#     """
-#     page = requests.get(job_url)
-#     post_soup = BeautifulSoup(page.content, "html.parser")
-#     time.sleep(random.random())
-#     return post_soup
-
-
-def wait():
-    """
-    gets a random sleep time, between 240 and 360 seconds,
-    prints a sleep message to terminal.
-    :return: None
-    """
-    sleep_time = random.randint(240, 360)
-    print(f"waiting for {sleep_time} this long (seconds)")
-    time.sleep(sleep_time)
-    return
 
 
 def get_input():
@@ -262,7 +236,9 @@ def scraper(job_title, location, age, scrapes, filename):
 
             if break_time == 100:
                 break_time = 0
-                wait()
+                wait_time = random.randint(240, 360)
+                print(f"waiting for {wait_time} this long (seconds)")
+                time.sleep(wait_time)
 
             if scraped_jobs == 350 or scraped_jobs == 700:
                 get_input()
