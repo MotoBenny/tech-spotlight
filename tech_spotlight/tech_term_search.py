@@ -6,14 +6,13 @@ Global
 TODO: refactor with OOP structure.
 TODO: Type hint the methods/function.
 TODO: add line comments where code is vauge.
-TODO: work in commitizen and pre-commits.
+TODO: and pre-commits.
 """
 
 
 def open_text(read_file):
     """
-    Function opens and reads the text file of job description
-    content from Indeed.com
+    Function opens and reads the input text file
     :param read_file: job description text file
     :return: content of text file as a string
     """
@@ -41,6 +40,7 @@ def open_terms(terms_file):
 
 # TODO: refactor this for loop, perhaps map over the
 # cont: patterns rather than the if else statements.
+# TODO: dictionary for the regex patterns
 def get_terms(read_file, terms_file):
     """
     Function calls open_text() and open_terms() functions
