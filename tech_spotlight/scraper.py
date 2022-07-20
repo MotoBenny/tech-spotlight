@@ -4,12 +4,11 @@ from bs4 import BeautifulSoup
 import time
 import random
 import sys
-from tech_term_search import write_data
+from . import tech_term_search
 
 
 """
 Global
-TODO: refactor with OOP structure
 TODO: typehint menthods/function
 TODO: add inline comments for vauge code or refactor for readability
 TODO: impliment mock with testing for scraper.py
@@ -165,7 +164,7 @@ def main():
     scraper(job_tile, location, age, int(scrapes), filename)
     raw_file_path = f"{filename}.txt"
     csv_file_path = f"{filename}_terms.csv"
-    write_data(
+    tech_term_search.write_data(
         (
             "/Users/bencarter/projects/Code401/"
             f"tech-spotlight/tech_spotlight/{raw_file_path}"
@@ -185,15 +184,19 @@ def main():
     )
 
 
-def scraper(job_title, location, age, scrapes, filename):
+def scraper(job_title: str, location: str, age: int, scrapes: int, filename: str):
     """
     Main application function, calls all other functions to perform the
     requested job scrape.
 
-    :param job_title: string
-    :param location: string
-    :param age: string
-    :param scrapes: int
+    :param job_title: Job title, such as "software engineer", "python developer"
+    :type job_title: str
+    :param location: Location name, such as "seattle" "remote" "chicago"
+    :type location: str
+    :param age: 1 3 5 or 7
+    :type age: int
+    :param scrapes: "50" to scrape 50 job posts
+    :type scrapes: int
     :param filename: string
     :return: raw text file
     """
