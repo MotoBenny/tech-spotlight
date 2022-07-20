@@ -129,6 +129,8 @@ def main():
     :return: N/A Calls scraper
     """
     age_inputs = ["1", "3", "5", "7"]
+
+    # Welcome user, and prompt for scrape query params
     print(welcome_str)
     job_tile = input(search_query_str)
     location = input(location_query_str)
@@ -159,6 +161,7 @@ def main():
     """
     )
     time.sleep(2)
+    # call scraper with provided user inputs
     scraper(job_tile, location, age, int(scrapes), filename)
     raw_file_path = f"{filename}.txt"
     csv_file_path = f"{filename}_terms.csv"
