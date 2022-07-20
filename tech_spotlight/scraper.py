@@ -123,32 +123,6 @@ def get_input():
         get_input()
 
 
-def nonetype_received(scrapes, scraped_jobs):
-    """
-    returns a message informing the user about the failed scrape,
-    includes information about the scrape,
-    exits the script.
-    :param scrapes: the attempted total jobs to scrape: int
-    :param scraped_jobs: the num of jobs successfully scraped: Int
-    :return: None
-    """
-    print(
-        f"""
-        >>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<
-        >>> Nonetype received, you likely hit a captcha <<<
-        >>> or ran out of job posts for a given search, <<<
-        >>> unfortunately scraper cannot recover from   <<<
-        >>> this. You will need to start over. Try,     <<<
-        >>> using a vpn, to swap your IP address mid    <<<
-        >>> scrape.                                     <<<
-            We successfully scraped {scraped_jobs}
-            out of the attempted {scrapes} total.
-        >>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<
-    """
-    )
-    sys.exit()
-
-
 def main():
     """
     prompts user for search params and calls scraper.
@@ -229,7 +203,21 @@ def scraper(job_title, location, age, scrapes, filename):
         results = format_url(job_title, location, age, start)
 
         if results is None:
-            nonetype_received(scrapes, scraped_jobs)
+            print(
+                f"""
+                    >>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<
+                    >>> Nonetype received, you likely hit a captcha <<<
+                    >>> or ran out of job posts for a given search, <<<
+                    >>> unfortunately scraper cannot recover from   <<<
+                    >>> this. You will need to start over. Try,     <<<
+                    >>> using a vpn, to swap your IP address mid    <<<
+                    >>> scrape.                                     <<<
+                        We successfully scraped {scraped_jobs}
+                        out of the attempted {scrapes} total.
+                    >>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<
+                """
+            )
+            sys.exit()
 
         for element in results:
             a_tag = element.find("a")
