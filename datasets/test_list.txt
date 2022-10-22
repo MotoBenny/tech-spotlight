@@ -1,0 +1,6 @@
+.NET CORE
+ASP.NET
+AWS Elastic Load Balancing (ELB)
+AWS Lambda
+Amazon CloudFront
+Amazon CloudWatch

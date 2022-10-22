@@ -1,0 +1,3182 @@
+Job Description
+At Boeing, we innovate and collaborate to make the world a better place. From the seabed to outer space, you can contribute to work that matters with a company where diversity, equity and inclusion are shared values. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us.
+Boeing is looking for a Associate Software Engineer based out of Seattle, Washington.
+
+ The ONS (Onboard Network Systems) team is looking for Software Engineers to develop application software. ONS software manages onboard networks, off-board communication, LRU (Line Replaceable Unit) data load, file storage, third party developed software, and a whole host of additional features that airline customers rely on.
+
+ Software Engineers will work in multi-disciplinary teams with Systems Engineers, Testers, business leaders, and airline customers to design and build new ONS platform features. The ONS platform software uses a number of technologies and the team is in need of Engineers with a wide variety of software engineering skills.
+
+
+Position Responsibilities:
+ Assists with the development, documentation and maintenance of architectures, requirements, algorithms, interfaces and designs for software systems.
+
+ Develops and maintains code and integrates software components into a fully functional software system.
+
+ Supports software project management and software supplier management functions.
+
+ Selects, tailors and deploys processes and tools; establishes metrics.
+
+ Performs software research and trade studies.
+
+ Interacts primarily with internal personnel and infrequently with inter-organizational and external customers on routine matters.
+
+ Troubleshoots software issues.
+
+ Works under general supervision.
+
+ This position must meet Export Control compliance requirements, therefore a “US Person” as defined by 22 C.F.R. § 120.15 is required. “US Person” includes US Citizen, lawful permanent resident, refugee, or asylee.
+
+ This position allows telecommuting. The selected candidate will be required to perform some work onsite at one of the listed location options.
+
+
+Basic Qualifications (Required Skills/Experience):
+ Bachelor's degree or greater from an accredited course of study in engineering, computer science, mathematics, physics, chemistry or related technical degree field.
+
+ 2+ years software development experience
+
+ Experience in C++ or Python or Java
+
+ Experience using git version control
+
+
+Preferred Qualifications (Desired Skills/Experience):
+ 2+ Years of professional development experience managing project source code in a Git repository.
+
+ 1+ Years of professional experience maintaining a software component build (e.g. make, cmake, autotools, etc.)
+
+ 1+ Years of professional experience analyzing and resolving code bugs.
+
+ Networking Experience for debugging issues
+
+ Knowledge of Client/Server architecture
+
+
+Typical Education/Experience:
+ Education/experience typically acquired through advanced technical education from an accredited course of study in engineering, computer science, mathematics, physics or chemistry (e.g. Bachelor) and typically 2 or more years' related work experience or an equivalent combination of technical education and experience (e.g. Master). In the USA, ABET accreditation is the preferred, although not required, accreditation standard.
+
+
+Relocation:
+ This position offers relocation based on candidate eligibility.
+
+
+Shift Work Statement:
+ This position is for 1st shift
+
+
+Union:
+ This is a union represented position
+
+
+Drug Free Workplace:
+ Boeing is a Drug Free Workplace where post offer applicants and employees are subject to testing for marijuana, cocaine, opioids, amphetamines, PCP, and alcohol when criteria is met as outlined in our policies .
+
+
+Equal Opportunity Employer:
+ Boeing is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law.
+
+ _________________________________New Job______________________________
+
+
+About the role:
+
+   Collaborates with stakeholders within the team to build and maintain backend services and solutions to support user-facing products, downstream services, or infrastructure tools and platforms used across Uber.
+
+
+ About the Team:
+
+   As a Software Engineer at Uber, you will architect highly-performant, reliable, applications used by millions of external customers every day. You will have a unique opportunity to work closely and partner with a growing Uber for Business team, to build world class Help Center and Support experiences for their product. Uber for Business has customers 25+ countries and 50% of those are Fortune 500. As part of this team, systems you build will be directly impacting these customers and their support experience. At Uber, we have a high bar for quality & efficiency - you will collaborate closely with your Tech Lead, Product Managers and Business Operations teams to build for scale, yet solution focussed on providing delightful customer experiences. The team is focussed on high business impact, where every product we ship is measured and tracked with cost savings and/or efficiency improvement. We are just getting started, come and join us for an exciting ride!
+
+ Minimum qualifications:
+
+ Bachelor’s degree or equivalent in Computer Science, Engineering, Mathematics or related field OR 1-year full-time Software Engineering work experience, WHICH INCLUDES 1-year total technical software engineering experience in one or more of the following areas:
+
+
+
+ Programming language (e.g. C, C++, Java, Python, or Go)
+
+
+
+ Note the 1-year total of specialized software engineering experience may have been gained through education and full-time work experience, additional training, coursework, research, or similar (OR some combination of these). The year of specialized experience is not necessarily in addition to the years of Education & full-time work experience indicated.
+
+ Technical skills:
+
+   Preferred:
+
+
+
+ Scalability engineering
+ Distributed systems
+ Experience coding with GO and Python
+ Bonus - front end experience (React, JS)
+ Strong collaboration skills and passion for learning new technologies
+ Experience with relational databases and distributed storage systems (MySQL, Cassandra, Elasticsearch, Redis)
+
+
+ At Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 600 cities around the world!
+ We welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have a curiosity, passion and collaborative spirit, work with us, and let’s move the world forward, together!
+ Uber is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
+ If you have a disability or special need that requires accommodation, please let us know by completing this form.
+
+
+
+ _________________________________New Job______________________________
+
+
+
+A World-Changing Company
+
+
+
+ At Palantir, we’re passionate about building software that solves problems. We partner with the most important institutions in the world to transform how they use data and technology. Our software has been used to stop terrorist attacks, discover new medicines, gain an edge in global financial markets, and more. If these types of projects excite you, we'd love for you to join us.
+
+
+
+ The Role
+
+
+
+ Software Engineers at Palantir build software at scale to transform how organizations around the world use data. As a Software Engineer, you'll contribute high-quality code to Palantir Gotham or Palantir Foundry: products that are deployed to the most important institutions in the public and private sector. You'll build features used by research scientists, aerospace engineers, intelligence analysts, and economic forecasters, in countries around the world.
+
+
+
+ Palantir's Product Development organization is made up of small teams of Software Engineers. Each team focuses on a specific aspect of a product: for example, you might be part of a team that builds a Foundry front-end application, or a component of the Gotham release infrastructure. We encourage movement among teams to share context, skills, and experience, so you'll learn about many different aspects of each product.
+
+
+
+ Software Engineers are involved throughout the product lifecycle, from idea generation, design, and prototyping to execution, and shipping. As a Software Engineer, you'll collaborate closely with technical and non-technical counterparts to understand our customers' problems and build products that solve them. We think the best way to understand what our users need is to meet them, so occasionally, you'll tour the assembly line at an auto manufacturer or join a counter-terror analyst at their desk to really understand their mission and their pain points.
+
+
+
+ It doesn’t matter what languages you know when you join us, but it does matter that you can write clean, effective code and learn new languages quickly. Our software is constantly evolving, so we need engineers who can do the same. Alongside peers who bring diverse experience — startup founders, industry veterans, university TAs, and more — you'll build your skillset to apply the best technology to solve a given problem. Right now, we use:
+
+
+
+ A variety of languages, including Java and Go for back end and Typescript for front end
+Open-source technologies like Cassandra, Spark, ElasticSearch, React, and Redux
+Industry-standard build tooling, including Gradle, Webpack, and Github
+
+
+
+ Whether you aspire to be an entrepreneur or an engineering leader, we believe Palantir is the best place — with the best colleagues — to learn how. You’ll learn how to unpack a problem and understand the costs and consequences of its solution. You’ll learn new technologies and languages, and even develop them yourself. You’ll work autonomously and make decisions independently, within a community that will support and challenge you as you grow and develop.
+
+ What We Value
+
+ Strong engineering background in fields such as Computer Science, Mathematics, Software Engineering, and Physics.
+ Familiarity with data structures, storage systems, cloud infrastructure, front-end frameworks, and other technical tools.
+ Strong coder with demonstrated proficiency in programming languages, such as Java, C++, Python, JavaScript, or similar languages.
+ Demonstrated ability to collaborate and empathize with a variety of individuals. You can iterate with users and non-technical stakeholders and understand how your technical decisions impact them.
+ Demonstrated ability to learn and work independently and make decisions with minimal supervision.
+ A desire to work on software that can change the world and a passion for creating intuitive, scalable products that augment our users' ability to work with data.
+ Active US Security clearance, or eligibility and willingness to obtain a US Security clearance is beneficial but not necessary.
+
+
+   Palantir is committed to promoting a culture of diversity, equity, and inclusion and is proud to be an Equal Employment Opportunity and Affirmative Action employer. We believe that all Palantirians share the responsibility of upholding our commitment to these values and encourage candidates from a wide range of backgrounds, perspectives, and lived experiences to join us in solving the world's hardest problems. Palantir does not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. Palantir is committed to working with and providing reasonable accommodations to applicants with physical and mental disabilities. Please see the United States Department of Labor's EEO poster and EEO poster supplement for additional information.
+
+
+
+ Palantir is committed to making the job application process accessible to everyone. If you are living with a disability (visible or not visible) and need to request a reasonable accommodation for any part of the application or hiring process, please reach out and let us know how we can help.
+
+
+
+ _________________________________New Job______________________________
+
+
+
+
+
+Summary
+
+
+      Posted: Apr 15, 2022
+
+
+      Weekly Hours:
+      40
+
+
+      Role Number:
+      200368267
+
+
+
+     The Apple Media Products Engineering team is one of the most exciting examples of Apple’s long-held passion for combining art and technology. These are the people who power the App Store, Apple TV, Apple Music, Apple Podcasts, and Apple Books. And they do it on a massive scale, meeting Apple’s high expectations with high performance to deliver a huge variety of entertainment in over 35 languages to more than 150 countries. These engineers build secure, end-to-end solutions. They develop the custom software used to process all the creative work, the tools that providers use to deliver that media, all the server-side systems, and the APIs for many Apple services. Thanks to Apple’s unique integration of hardware, software, and services, engineers here partner to get behind a single unified vision. That vision always includes a deep commitment to strengthening Apple’s privacy policy, one of Apple’s core values. Although services are a bigger part of Apple’s business than ever before, these teams remain small, nimble, and cross-functional, offering greater exposure to the array of opportunities here.
+
+
+
+
+
+
+
+
+
+Key Qualifications
+
+
+
+
+3+ years experience testing Client/Server and Web Based applications
+Proficient with with Web UI Automation tools such as TestCafe, Selenium, XCTest
+Experience with Python driven test development
+Highly organized, creative, and passionate about achieving results
+Experience developing detailed test plans, assessing risks, filing detailed defect reports, and providing relevant data for test reporting
+Knowledgeable and curious about how software applications function beneath the user interface
+Able to apply creativity and analytical thinking to all kinds of problems, such test case creation and execution
+Strong organizational skills enabling both independent and team work
+
+
+
+
+
+
+
+
+
+
+Description
+
+
+
+       The App Store Connect QA team is looking for an experienced Software UI QA Engineer to support new features to App Store Connect, the web based App Management portal for Apple’s App Developer community. In this role you will work side-by-side with developers and peers to author and complete manual tests and expand our automated test suite. You will be responsible for crafting, implementing, and executing test plans and test suites based on software specification and design documents. You will help ensure the successful delivery of a quality product by performing ad-hoc and structured tests.
+
+
+
+
+
+
+
+
+
+Education & Experience
+
+
+
+       Bachelors degree or 3 years equivalent experience testing software
+
+
+
+
+
+
+
+
+
+Additional Requirements
+
+
+
+
+Proficiency with API test tools (PAW, JMeter, Postman) a plus
+
+
+
+
+
+
+
+
+
+ _________________________________New Job______________________________
+
+ Senior Software Engineer - Data Platform - Kent, WA
+6-month contract Pay $122.00 $153.00/hr BOE.
+US Citizen/Person or Permeant Resident
+Sorry, No C2C or third party resumes.
+Job Description:
+Our client is a diverse team of collaborators, doers, and problem-solvers who are relentlessly committed to a culture of safety. This position will directly impact the history of space exploration and will require your commitment and detailed attention towards safe and repeatable space flight. Join our client in lowering the cost of access to space and enabling our client’s vision of millions of people living and working in space to benefit Earth.
+Data is the lifeblood of an organization and integration services is the arterial system responsible to sustain and nourish the enterprise. We are a team of enablers building the arterial systems of the company that is building the road to space to benefit the earth.
+As an engineering leader with vision, your passion for Blue Origin's mission, future of space exploration and developer efficiency will drive our data platform to enable federated data development across Blue Origin. This position requires unrelenting customer experience, and operational excellence!Responsibilities:
+
+Design, develop and maintain metadata driven data pipeline automation framework(s) for batch, event and streaming data in cloud native environment
+Develop data modeling standards, governance, automation frameworks and developer tooling to standardize and accelerate data delivery across the organization.
+Design and implement data models for APIs/Events/Batch based system and data integration
+Rapid prototyping and presenting proof of concepts for key technology decision to collaborators and other technology leaders.
+Build end to end data pipelines from source to target ensuring data quality, consistency and observability using DataOps principles
+Coach and mentor fellow and junior engineers
+
+Basic Qualifications:
+
+Bachelor’s degree in Computer Science or equivalent
+5+ year software development delivery accountability
+3+ years of hand on experience in metadata management, metadata driven automation and developer efficiency tooling
+3+ years of cloud native data solutions enabling Analytics, Operational, Data Science and ML use cases
+3+ year of large scale event-driven and streaming solutions in cloud native environment
+5+ years with advanced SQL and scripting (python/bash etc.) development
+Excellent verbal and written communications skills
+Must be a U.S. citizen or national, U.S. permanent resident (current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum.
+
+Preferred Qualifications
+
+Master's degree or higher in Computer Science, Mathematics, Statistics, or similar analytical field.
+Manufacturing and/or Aerospace experience
+Experience working/collaborating with Master Data Management, Metadata Management and Data Governance
+
+Engineer - Data Sr 002832
+Job Type: Contract
+Pay: $122.00 - $153.00 per hour
+Benefits:
+
+401(k)
+Health insurance
+
+Schedule:
+
+8 hour shift
+
+COVID-19 considerations:COVID-19 precautions are in place
+Application Question(s):
+
+Describe your day to day activities
+Describe the most complex integration you build. How did you measure the success of your integration?
+
+Experience:
+
+software development delivery accountability: 4 years (Required)
+cloud native data solutions enabling Analytics: 3 years (Required)
+large scale event-driven and streaming solutions: 3 years (Required)
+advanced SQL and scripting (python/bash etc.) development: 5 years (Required)
+Manufacturing and/or Aerospace: 1 year (Preferred)
+working/collaborating with Master Data Management: 1 year (Preferred)
+
+Work Location: One location
+
+ _________________________________New Job______________________________
+
+
+ Cloud Engineer
+
+  If you are a Cloud Engineer with experience, please read on!
+
+ Top Reasons to Work with Us
+
+   Fast growing SaaS company is looking for an experienced Cloud Engineer. Client has over 200 employees and over $40M in funding. Has won numerous awards and recognition for their software.
+
+ What You Will Be Doing
+
+Part of product team (cloud governance) installing, configuring, automating and monitoring Cloud services (IaaS, PaaS and SaaS)
+Be a subject matter expert in cloud experience, assist global enterprise clients working with multiple cloud platforms
+Ensure internal and customer hosts and services thru monitoring, analyzing metrics and investigating alerts
+Explore and implement broad open source technologies. Help team to resolve technical issues.
+Customer focused, available on-call for solving critical problems
+Help process improvement in product deployments, cloud governance and customer success
+
+ What You Need for this Position
+
+Experience managing Azure/Cloud IaaS, PaaS services
+Experience with DevOps technologies, automation, infrastructure orchestration configuration and CI/CD
+Experience in Linux and Windows Administration, server hardening
+Web and Application Server technologies like Apache, Nginix, IIS
+Experience with at least one scripting language like Bash, PowerShell, Ruby or Python
+Network protocols like HTTP, DNS and TCP/IP
+Experience managing control platforms like Git or SVN (or others)
+
+ What's In It for You
+
+Vacation/PTO
+Medical
+Dental
+Vision
+Bonus
+401k
+Equity
+
+ Benefits
+
+Vacation/PTO
+Medical
+Dental
+Vision
+Bonus
+401k
+Equity
+
+
+   So, if you are a Cloud Engineer with experience, please apply today!
+
+
+   Colorado employees will receive paid sick leave. For additional information about available benefits, please contact Abel Echemendia
+
+
+Applicants must be authorized to work in the U.S.
+
+CyberCoders, Inc is proud to be an Equal Opportunity Employer
+
+ All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+
+Your Right to Work – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.
+
+
+ _________________________________New Job______________________________
+
+
+ Senior Software Engineer (Python)! 100% REMOTE!
+
+  We are on a mission to empower teams across the world to deliver cloud-based search applications and experiences faster and with more confidence! Our market is growing fast and we are profitable with no outside INVESTMENT! Companies like Toyota, Stanley Black & Decker and Carnival, count on us! We are responsible for designing, architecting, developing, testing, and scaling our PaaS/SaaS products that serve hundreds of customers across the globe. We have an ambitious roadmap and are looking for an experienced Senior Software Engineer to join our product development team.
+
+ Our tech stack: Python, Django, AWS (RDS, S3), Terraform, Ansible, MongoDB, Redis, Apache Solr & Elasticsearch. We follow modified Agile Scrum with 2-week sprints, daily standups and are a fully remote team across the globe (US, Europe, India).
+
+ What's In It for You
+
+Competitive salaries
+Medical, dental, and vision coverage for you and your family, along with other wellness and disability plans
+10 paid holidays; competitive and flexible paid time off policy
+401(k) with company match to all employees
+An opportunity to be more than just an engineer and help shape our technical destiny!
+
+ What You Need for this Position
+
+6+ years of professional software engineering experience, including SaaS application development
+Python in a production environment
+Ansible
+Terraform
+Understanding what it means to craft software that is a part of a larger microservice architecture
+Familiar with at least one auth and identity protocol such as OAuth 2.0, OIDC, or SAML
+Expertise in developing and working with thoughtfully designed REST APIs and SDKs
+Familiarity with major cloud platforms such as Amazon Web Services, Google Cloud, or Microsoft Azure
+Strong understanding of data modeling and storage with NoSQL and RDBMS
+A BS Computer Science or Electrical Engineering or equivalent
+Django (Plus)
+Elasticsearch or Apache Solr (Plus)
+
+ What You Will Be Doing
+
+Architecting and developing web, software, and mobile apps
+Coming up with feasible and practical solutions to tough problems
+Write very high-quality code that is robust and easy to maintain with tests
+Drive tasks to completion and take ownership of projects
+Work and succeed in a fast-paced and agile development environment
+Identify and drive improvements to our software and development processes
+Conduct peer design/code reviews
+Work with distributed teams across different time zones
+Technical subject matter expert, who mentors fellow engineers, demonstrates technical experience and leads teams in solving challenging problems
+Provide fanatical production support for your features and applications
+
+
+   So, if you have the experience above, please apply today or email me directly at Hanna.Hailee@cybercoders.com!
+
+
+   Colorado employees will receive paid sick leave. For additional information about available benefits, please contact Hanna Haile
+
+
+Applicants must be authorized to work in the U.S.
+
+CyberCoders, Inc is proud to be an Equal Opportunity Employer
+
+ All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+
+Your Right to Work – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.
+
+
+ _________________________________New Job______________________________
+
+ Equivalent Experience
+
+
+Description:
+
+
+Specify, design, develop, and test SW that commands and communicates with embedded devices, generally in C, Embedded Linux
+Need them to be pretty self-sufficient but also be comfortable working in a collaborative environment to seek out input, interface and requirement definition, etc.
+Probably 5-7+ years experience in general but can be flexible
+Prefer someone with familiarity/expertise with: C, Embedded Linux, Gitlab
+Develop and document software requirements and verification plans; develop software use-cases
+Support development of software architecture
+Design and develop and test flight software code and related test scripts
+Ensure that adequate test, inspection, and analysis reports verify compliance with the requirements
+Support major customer reviews of software integration & test efforts
+Resolve bugs found by yourself, other developers, test engineers, systems engineers, production, or operations
+
+Skills:
+ Software Development
+C
+Embedded
+Hardware
+Linux
+Embedded C
+Embedded Linux
+C++
+Avionics
+Satellites
+Python
+Electrical Engineer
+Computer engineer
+Gitlab
+
+
+Additional Skills & Qualifications:
+
+
+Must be a U.S. Person. Due to government regulation of the space industry, this requirement cannot be waived.
+Bachelor of Science or greater in Electrical or Computer Engineering, or a related field
+5+ years of experience delivering and maintaining commercial software in a production environment
+Expertise with Linux and C
+Familiarity with software version control management tools such as Git
+Passion for working closely with hardware
+
+Bonus Skills:
+
+
+Knowledge of Python and C++
+Experience in high reliability, safety critical, or regulated environments
+Knowledge of FPGA (e.g. VHDL)
+Experience with requirements management tools (e.g. JAMA, DOORs, etc.)
+Experience with software scheduling and tasking tools (e.g. Jira)
+Experience with integrating open source software with internal development
+Capability to use electrical measurement equipment i.e.: function generators, oscilloscopes
+
+About Actalent:
+ Actalent connects passion with purpose. Our scalable talent solutions and services capabilities drive value and results and provide the expertise to help our customers achieve more. Every day, our experts around the globe are making an impact. We’re supporting critical initiatives in engineering and sciences that advance how companies serve the world. Actalent promotes consultant care and engagement through experiences that enable continuous development. Our people are the difference. Actalent is an operating company of Allegis Group, the global leader in talent solutions.
+
+ The company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.
+
+ _________________________________New Job______________________________
+
+
+ Remote DevOps Engineer
+
+Title: DevOps Engineer
+
+Location: 100% Remote
+
+Salary: $140,000-165,000
+
+Requirements:
+ 1. Recent hands on experience with AWS
+   2. Experience with Terraform
+
+ We are a FAST growing healthcare SaaS startup located in Seattle, WA. Founded by serial entrepreneurs, we are disrupting the healthcare industry and are on a mission to change people's lives through AI technology. Due to our continued rapid growth, we are looking to hire an experienced and motivated DevOps Engineer to join our team immediately.
+
+ Recent AWS experience is a must! Terraform is also a must have.
+
+ In this role, you will make a real, positive difference in other people's lives through your work. We are extremely proud to be applying our efforts to improve health options for everyone.
+
+ This is a 100% remote, full time permanent position.
+  -Candidates with completed questionnaires will be reviewed first!-
+
+ What You Will Be Doing
+
+Design, develop, manage and deploy cloud infrastructure as code on AWS
+Own the cluster lifecycle for ECS and Kubernetes clusters EC2 instances, to the troubleshooting and maintenance of the containers/pods and their networking components
+Collaborate as an integrated member of a cross functional team, bringing your cloud expertise to the software and system design process
+Champion cloud native design patterns as an AWS subject matter expert, designing all implementations against the AWS Well Architected-Framework
+Design, build and maintain network connectivity and VPN solutions between us and our customers. We leverage site-to-site VPN solutions in AWS and you will become familiar with these technologies. Be a point of contact to troubleshoot networking issues with our customers
+Identify inefficiencies and improve processes with solutions that increase integration velocity
+Ability to manage and prioritize multiple tasks intelligently
+
+ What You Need for this Position
+
+ Must Haves:
+
+
+Hands on experiences with AWS, with strong level knowledge of the following services: Codebuild, EC2, ECS, IAM, S3, SQS, VPC
+Deep understanding and expertise in one or more of the following areas: Kubernetes, CI/CD, Networking, or Cloud Security
+Hands on experiences writing automation scripts, e.g. shell scripting, Python and NodeJS.
+Infrastructure automation using Terraform or similar infrastructure as code technologies
+Container and Container Management including Docker, Kubernetes, EKS, etc.
+Excellent verbal and written communication skills
+
+
+ Nice to Haves:
+
+
+Experiences working in production environments with high standard of compliance requirements, such as HIPAA and PCI-DSS
+Experiences with VPN solutions. Good knowledge of networking, Cisco VPN router configuration, nginx, TLS, HTTPS and network security protocols and other VPN and WAN technologies, such as Checkpoint software
+Working knowledge of Linux
+
+
+ What's In It for You
+
+Competitive Salary
+Medical, Dental, Vision Insurance
+Meaningful Equity
+
+ Benefits
+
+Vacation/PTO
+Medical
+Dental
+Vision
+
+
+   So, if you are a Remote DevOps Engineer with AWS and Terraform experience, please apply today!
+
+
+   Colorado employees will receive paid sick leave. For additional information about available benefits, please contact Rachel Reid
+
+
+Applicants must be authorized to work in the U.S.
+
+CyberCoders, Inc is proud to be an Equal Opportunity Employer
+
+ All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+
+Your Right to Work – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.
+
+
+ _________________________________New Job______________________________
+
+ Equivalent Experience
+
+
+Description:
+ To provide connectivity and internet access to 95% of the world, including underserved areas.
+
+The Team: In order to support these constellations at a low earth orbit, we need the software to support these satellites. His team is building out the network so the communication can happen, and using optical communication to do this. Each satellite will have optical terminals and they need to point to one another. They will establish the links, maintain those links as they orbit the earth and that’s the primary medium for connecting these satellites. Dee’s team is 6 software engineers, and broken into several subsystems. Need to be able to move information throughout the entire constellation.
+
+Description: The satellites are comprised of optics, controls, and electronics and this team does the software development to support all of this. Dee is currently building out embedded applications for how they control these applications. This role, the Software Engineer will look at what data, what sensors, and what diagnostics are necessary to capture performance of the terminals, and then the team will be implementing the control loops with software and FPGA.
+
+
+Skills:
+ C/C++
+Python
+Linux
+
+
+Additional Skills & Qualifications:
+ Development is primarily done in Rust, which is a newer language and the rest is done in C. Willing to train on Rust. Rust is a huge plus, but not required.
+A lot of telemetry that they capture from the terminals, downlinked from the ground. This is not necessarily embedded in nature, this could be data driven and automated to run rules, checks and monitors, build out visuals etc. Going to build out test systems and do a ton of testing.
+
+ Python, or automation – building testing frameworks to help them with AI&T campaign (sp), this would be a good compliment.
+
+
+About Actalent:
+ Actalent connects passion with purpose. Our scalable talent solutions and services capabilities drive value and results and provide the expertise to help our customers achieve more. Every day, our experts around the globe are making an impact. We’re supporting critical initiatives in engineering and sciences that advance how companies serve the world. Actalent promotes consultant care and engagement through experiences that enable continuous development. Our people are the difference. Actalent is an operating company of Allegis Group, the global leader in talent solutions.
+
+ The company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.
+
+ _________________________________New Job______________________________
+
+ Job Description
+At Boeing, we innovate and collaborate to make the world a better place. From the seabed to outer space, you can contribute to work that matters with a company where diversity, equity and inclusion are shared values. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us.
+Boeing is looking for a Associate Software Engineer based out of Seattle, Washington.
+
+ The ONS (Onboard Network Systems) team is looking for Software Engineers to develop application software. ONS software manages onboard networks, off-board communication, LRU (Line Replaceable Unit) data load, file storage, third party developed software, and a whole host of additional features that airline customers rely on.
+
+ Software Engineers will work in multi-disciplinary teams with Systems Engineers, Testers, business leaders, and airline customers to design and build new ONS platform features. The ONS platform software uses a number of technologies and the team is in need of Engineers with a wide variety of software engineering skills.
+
+
+Position Responsibilities:
+ Assists with the development, documentation and maintenance of architectures, requirements, algorithms, interfaces and designs for software systems.
+
+ Develops and maintains code and integrates software components into a fully functional software system.
+
+ Supports software project management and software supplier management functions.
+
+ Selects, tailors and deploys processes and tools; establishes metrics.
+
+ Performs software research and trade studies.
+
+ Interacts primarily with internal personnel and infrequently with inter-organizational and external customers on routine matters.
+
+ Troubleshoots software issues.
+
+ Works under general supervision.
+
+ This position must meet Export Control compliance requirements, therefore a “US Person” as defined by 22 C.F.R. § 120.15 is required. “US Person” includes US Citizen, lawful permanent resident, refugee, or asylee.
+
+ This position allows telecommuting. The selected candidate will be required to perform some work onsite at one of the listed location options.
+
+
+Basic Qualifications (Required Skills/Experience):
+ Bachelor's degree or greater from an accredited course of study in engineering, computer science, mathematics, physics, chemistry or related technical degree field.
+
+ 2+ years software development experience
+
+ Experience in C++ or Python or Java
+
+ Experience using git version control
+
+
+Preferred Qualifications (Desired Skills/Experience):
+ 2+ Years of professional development experience managing project source code in a Git repository.
+
+ 1+ Years of professional experience maintaining a software component build (e.g. make, cmake, autotools, etc.)
+
+ 1+ Years of professional experience analyzing and resolving code bugs.
+
+ Networking Experience for debugging issues
+
+ Knowledge of Client/Server architecture
+
+
+Typical Education/Experience:
+ Education/experience typically acquired through advanced technical education from an accredited course of study in engineering, computer science, mathematics, physics or chemistry (e.g. Bachelor) and typically 2 or more years' related work experience or an equivalent combination of technical education and experience (e.g. Master). In the USA, ABET accreditation is the preferred, although not required, accreditation standard.
+
+
+Relocation:
+ This position offers relocation based on candidate eligibility.
+
+
+Shift Work Statement:
+ This position is for 1st shift
+
+
+Union:
+ This is a union represented position
+
+
+Drug Free Workplace:
+ Boeing is a Drug Free Workplace where post offer applicants and employees are subject to testing for marijuana, cocaine, opioids, amphetamines, PCP, and alcohol when criteria is met as outlined in our policies .
+
+
+Equal Opportunity Employer:
+ Boeing is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law.
+
+ _________________________________New Job______________________________
+
+
+About the role:
+
+   Collaborates with stakeholders within the team to build and maintain backend services and solutions to support user-facing products, downstream services, or infrastructure tools and platforms used across Uber.
+
+
+ About the Team:
+
+   As a Software Engineer at Uber, you will architect highly-performant, reliable, applications used by millions of external customers every day. You will have a unique opportunity to work closely and partner with a growing Uber for Business team, to build world class Help Center and Support experiences for their product. Uber for Business has customers 25+ countries and 50% of those are Fortune 500. As part of this team, systems you build will be directly impacting these customers and their support experience. At Uber, we have a high bar for quality & efficiency - you will collaborate closely with your Tech Lead, Product Managers and Business Operations teams to build for scale, yet solution focussed on providing delightful customer experiences. The team is focussed on high business impact, where every product we ship is measured and tracked with cost savings and/or efficiency improvement. We are just getting started, come and join us for an exciting ride!
+
+ Minimum qualifications:
+
+ Bachelor’s degree or equivalent in Computer Science, Engineering, Mathematics or related field OR 1-year full-time Software Engineering work experience, WHICH INCLUDES 1-year total technical software engineering experience in one or more of the following areas:
+
+
+
+ Programming language (e.g. C, C++, Java, Python, or Go)
+
+
+
+ Note the 1-year total of specialized software engineering experience may have been gained through education and full-time work experience, additional training, coursework, research, or similar (OR some combination of these). The year of specialized experience is not necessarily in addition to the years of Education & full-time work experience indicated.
+
+ Technical skills:
+
+   Preferred:
+
+
+
+ Scalability engineering
+ Distributed systems
+ Experience coding with GO and Python
+ Bonus - front end experience (React, JS)
+ Strong collaboration skills and passion for learning new technologies
+ Experience with relational databases and distributed storage systems (MySQL, Cassandra, Elasticsearch, Redis)
+
+
+ At Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 600 cities around the world!
+ We welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have a curiosity, passion and collaborative spirit, work with us, and let’s move the world forward, together!
+ Uber is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
+ If you have a disability or special need that requires accommodation, please let us know by completing this form.
+
+
+
+ _________________________________New Job______________________________
+
+
+
+A World-Changing Company
+
+
+
+ At Palantir, we’re passionate about building software that solves problems. We partner with the most important institutions in the world to transform how they use data and technology. Our software has been used to stop terrorist attacks, discover new medicines, gain an edge in global financial markets, and more. If these types of projects excite you, we'd love for you to join us.
+
+
+
+ The Role
+
+
+
+ Software Engineers at Palantir build software at scale to transform how organizations around the world use data. As a Software Engineer, you'll contribute high-quality code to Palantir Gotham or Palantir Foundry: products that are deployed to the most important institutions in the public and private sector. You'll build features used by research scientists, aerospace engineers, intelligence analysts, and economic forecasters, in countries around the world.
+
+
+
+ Palantir's Product Development organization is made up of small teams of Software Engineers. Each team focuses on a specific aspect of a product: for example, you might be part of a team that builds a Foundry front-end application, or a component of the Gotham release infrastructure. We encourage movement among teams to share context, skills, and experience, so you'll learn about many different aspects of each product.
+
+
+
+ Software Engineers are involved throughout the product lifecycle, from idea generation, design, and prototyping to execution, and shipping. As a Software Engineer, you'll collaborate closely with technical and non-technical counterparts to understand our customers' problems and build products that solve them. We think the best way to understand what our users need is to meet them, so occasionally, you'll tour the assembly line at an auto manufacturer or join a counter-terror analyst at their desk to really understand their mission and their pain points.
+
+
+
+ It doesn’t matter what languages you know when you join us, but it does matter that you can write clean, effective code and learn new languages quickly. Our software is constantly evolving, so we need engineers who can do the same. Alongside peers who bring diverse experience — startup founders, industry veterans, university TAs, and more — you'll build your skillset to apply the best technology to solve a given problem. Right now, we use:
+
+
+
+ A variety of languages, including Java and Go for back end and Typescript for front end
+Open-source technologies like Cassandra, Spark, ElasticSearch, React, and Redux
+Industry-standard build tooling, including Gradle, Webpack, and Github
+
+
+
+ Whether you aspire to be an entrepreneur or an engineering leader, we believe Palantir is the best place — with the best colleagues — to learn how. You’ll learn how to unpack a problem and understand the costs and consequences of its solution. You’ll learn new technologies and languages, and even develop them yourself. You’ll work autonomously and make decisions independently, within a community that will support and challenge you as you grow and develop.
+
+ What We Value
+
+ Strong engineering background in fields such as Computer Science, Mathematics, Software Engineering, and Physics.
+ Familiarity with data structures, storage systems, cloud infrastructure, front-end frameworks, and other technical tools.
+ Strong coder with demonstrated proficiency in programming languages, such as Java, C++, Python, JavaScript, or similar languages.
+ Demonstrated ability to collaborate and empathize with a variety of individuals. You can iterate with users and non-technical stakeholders and understand how your technical decisions impact them.
+ Demonstrated ability to learn and work independently and make decisions with minimal supervision.
+ A desire to work on software that can change the world and a passion for creating intuitive, scalable products that augment our users' ability to work with data.
+ Active US Security clearance, or eligibility and willingness to obtain a US Security clearance is beneficial but not necessary.
+
+
+   Palantir is committed to promoting a culture of diversity, equity, and inclusion and is proud to be an Equal Employment Opportunity and Affirmative Action employer. We believe that all Palantirians share the responsibility of upholding our commitment to these values and encourage candidates from a wide range of backgrounds, perspectives, and lived experiences to join us in solving the world's hardest problems. Palantir does not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. Palantir is committed to working with and providing reasonable accommodations to applicants with physical and mental disabilities. Please see the United States Department of Labor's EEO poster and EEO poster supplement for additional information.
+
+
+
+ Palantir is committed to making the job application process accessible to everyone. If you are living with a disability (visible or not visible) and need to request a reasonable accommodation for any part of the application or hiring process, please reach out and let us know how we can help.
+
+
+
+ _________________________________New Job______________________________
+
+
+
+
+
+Summary
+
+
+      Posted: Apr 15, 2022
+
+
+      Weekly Hours:
+      40
+
+
+      Role Number:
+      200368267
+
+
+
+     The Apple Media Products Engineering team is one of the most exciting examples of Apple’s long-held passion for combining art and technology. These are the people who power the App Store, Apple TV, Apple Music, Apple Podcasts, and Apple Books. And they do it on a massive scale, meeting Apple’s high expectations with high performance to deliver a huge variety of entertainment in over 35 languages to more than 150 countries. These engineers build secure, end-to-end solutions. They develop the custom software used to process all the creative work, the tools that providers use to deliver that media, all the server-side systems, and the APIs for many Apple services. Thanks to Apple’s unique integration of hardware, software, and services, engineers here partner to get behind a single unified vision. That vision always includes a deep commitment to strengthening Apple’s privacy policy, one of Apple’s core values. Although services are a bigger part of Apple’s business than ever before, these teams remain small, nimble, and cross-functional, offering greater exposure to the array of opportunities here.
+
+
+
+
+
+
+
+
+
+Key Qualifications
+
+
+
+
+3+ years experience testing Client/Server and Web Based applications
+Proficient with with Web UI Automation tools such as TestCafe, Selenium, XCTest
+Experience with Python driven test development
+Highly organized, creative, and passionate about achieving results
+Experience developing detailed test plans, assessing risks, filing detailed defect reports, and providing relevant data for test reporting
+Knowledgeable and curious about how software applications function beneath the user interface
+Able to apply creativity and analytical thinking to all kinds of problems, such test case creation and execution
+Strong organizational skills enabling both independent and team work
+
+
+
+
+
+
+
+
+
+
+Description
+
+
+
+       The App Store Connect QA team is looking for an experienced Software UI QA Engineer to support new features to App Store Connect, the web based App Management portal for Apple’s App Developer community. In this role you will work side-by-side with developers and peers to author and complete manual tests and expand our automated test suite. You will be responsible for crafting, implementing, and executing test plans and test suites based on software specification and design documents. You will help ensure the successful delivery of a quality product by performing ad-hoc and structured tests.
+
+
+
+
+
+
+
+
+
+Education & Experience
+
+
+
+       Bachelors degree or 3 years equivalent experience testing software
+
+
+
+
+
+
+
+
+
+Additional Requirements
+
+
+
+
+Proficiency with API test tools (PAW, JMeter, Postman) a plus
+
+
+
+
+
+
+
+
+
+ _________________________________New Job______________________________
+
+ Senior Software Engineer - Data Platform - Kent, WA
+6-month contract Pay $122.00 $153.00/hr BOE.
+US Citizen/Person or Permeant Resident
+Sorry, No C2C or third party resumes.
+Job Description:
+Our client is a diverse team of collaborators, doers, and problem-solvers who are relentlessly committed to a culture of safety. This position will directly impact the history of space exploration and will require your commitment and detailed attention towards safe and repeatable space flight. Join our client in lowering the cost of access to space and enabling our client’s vision of millions of people living and working in space to benefit Earth.
+Data is the lifeblood of an organization and integration services is the arterial system responsible to sustain and nourish the enterprise. We are a team of enablers building the arterial systems of the company that is building the road to space to benefit the earth.
+As an engineering leader with vision, your passion for Blue Origin's mission, future of space exploration and developer efficiency will drive our data platform to enable federated data development across Blue Origin. This position requires unrelenting customer experience, and operational excellence!Responsibilities:
+
+Design, develop and maintain metadata driven data pipeline automation framework(s) for batch, event and streaming data in cloud native environment
+Develop data modeling standards, governance, automation frameworks and developer tooling to standardize and accelerate data delivery across the organization.
+Design and implement data models for APIs/Events/Batch based system and data integration
+Rapid prototyping and presenting proof of concepts for key technology decision to collaborators and other technology leaders.
+Build end to end data pipelines from source to target ensuring data quality, consistency and observability using DataOps principles
+Coach and mentor fellow and junior engineers
+
+Basic Qualifications:
+
+Bachelor’s degree in Computer Science or equivalent
+5+ year software development delivery accountability
+3+ years of hand on experience in metadata management, metadata driven automation and developer efficiency tooling
+3+ years of cloud native data solutions enabling Analytics, Operational, Data Science and ML use cases
+3+ year of large scale event-driven and streaming solutions in cloud native environment
+5+ years with advanced SQL and scripting (python/bash etc.) development
+Excellent verbal and written communications skills
+Must be a U.S. citizen or national, U.S. permanent resident (current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum.
+
+Preferred Qualifications
+
+Master's degree or higher in Computer Science, Mathematics, Statistics, or similar analytical field.
+Manufacturing and/or Aerospace experience
+Experience working/collaborating with Master Data Management, Metadata Management and Data Governance
+
+Engineer - Data Sr 002832
+Job Type: Contract
+Pay: $122.00 - $153.00 per hour
+Benefits:
+
+401(k)
+Health insurance
+
+Schedule:
+
+8 hour shift
+
+COVID-19 considerations:COVID-19 precautions are in place
+Application Question(s):
+
+Describe your day to day activities
+Describe the most complex integration you build. How did you measure the success of your integration?
+
+Experience:
+
+software development delivery accountability: 4 years (Required)
+cloud native data solutions enabling Analytics: 3 years (Required)
+large scale event-driven and streaming solutions: 3 years (Required)
+advanced SQL and scripting (python/bash etc.) development: 5 years (Required)
+Manufacturing and/or Aerospace: 1 year (Preferred)
+working/collaborating with Master Data Management: 1 year (Preferred)
+
+Work Location: One location
+
+ _________________________________New Job______________________________
+
+
+ Cloud Engineer
+
+  If you are a Cloud Engineer with experience, please read on!
+
+ Top Reasons to Work with Us
+
+   Fast growing SaaS company is looking for an experienced Cloud Engineer. Client has over 200 employees and over $40M in funding. Has won numerous awards and recognition for their software.
+
+ What You Will Be Doing
+
+Part of product team (cloud governance) installing, configuring, automating and monitoring Cloud services (IaaS, PaaS and SaaS)
+Be a subject matter expert in cloud experience, assist global enterprise clients working with multiple cloud platforms
+Ensure internal and customer hosts and services thru monitoring, analyzing metrics and investigating alerts
+Explore and implement broad open source technologies. Help team to resolve technical issues.
+Customer focused, available on-call for solving critical problems
+Help process improvement in product deployments, cloud governance and customer success
+
+ What You Need for this Position
+
+Experience managing Azure/Cloud IaaS, PaaS services
+Experience with DevOps technologies, automation, infrastructure orchestration configuration and CI/CD
+Experience in Linux and Windows Administration, server hardening
+Web and Application Server technologies like Apache, Nginix, IIS
+Experience with at least one scripting language like Bash, PowerShell, Ruby or Python
+Network protocols like HTTP, DNS and TCP/IP
+Experience managing control platforms like Git or SVN (or others)
+
+ What's In It for You
+
+Vacation/PTO
+Medical
+Dental
+Vision
+Bonus
+401k
+Equity
+
+ Benefits
+
+Vacation/PTO
+Medical
+Dental
+Vision
+Bonus
+401k
+Equity
+
+
+   So, if you are a Cloud Engineer with experience, please apply today!
+
+
+   Colorado employees will receive paid sick leave. For additional information about available benefits, please contact Abel Echemendia
+
+
+Applicants must be authorized to work in the U.S.
+
+CyberCoders, Inc is proud to be an Equal Opportunity Employer
+
+ All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+
+Your Right to Work – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.
+
+
+ _________________________________New Job______________________________
+
+
+ Senior Software Engineer (Python)! 100% REMOTE!
+
+  We are on a mission to empower teams across the world to deliver cloud-based search applications and experiences faster and with more confidence! Our market is growing fast and we are profitable with no outside INVESTMENT! Companies like Toyota, Stanley Black & Decker and Carnival, count on us! We are responsible for designing, architecting, developing, testing, and scaling our PaaS/SaaS products that serve hundreds of customers across the globe. We have an ambitious roadmap and are looking for an experienced Senior Software Engineer to join our product development team.
+
+ Our tech stack: Python, Django, AWS (RDS, S3), Terraform, Ansible, MongoDB, Redis, Apache Solr & Elasticsearch. We follow modified Agile Scrum with 2-week sprints, daily standups and are a fully remote team across the globe (US, Europe, India).
+
+ What's In It for You
+
+Competitive salaries
+Medical, dental, and vision coverage for you and your family, along with other wellness and disability plans
+10 paid holidays; competitive and flexible paid time off policy
+401(k) with company match to all employees
+An opportunity to be more than just an engineer and help shape our technical destiny!
+
+ What You Need for this Position
+
+6+ years of professional software engineering experience, including SaaS application development
+Python in a production environment
+Ansible
+Terraform
+Understanding what it means to craft software that is a part of a larger microservice architecture
+Familiar with at least one auth and identity protocol such as OAuth 2.0, OIDC, or SAML
+Expertise in developing and working with thoughtfully designed REST APIs and SDKs
+Familiarity with major cloud platforms such as Amazon Web Services, Google Cloud, or Microsoft Azure
+Strong understanding of data modeling and storage with NoSQL and RDBMS
+A BS Computer Science or Electrical Engineering or equivalent
+Django (Plus)
+Elasticsearch or Apache Solr (Plus)
+
+ What You Will Be Doing
+
+Architecting and developing web, software, and mobile apps
+Coming up with feasible and practical solutions to tough problems
+Write very high-quality code that is robust and easy to maintain with tests
+Drive tasks to completion and take ownership of projects
+Work and succeed in a fast-paced and agile development environment
+Identify and drive improvements to our software and development processes
+Conduct peer design/code reviews
+Work with distributed teams across different time zones
+Technical subject matter expert, who mentors fellow engineers, demonstrates technical experience and leads teams in solving challenging problems
+Provide fanatical production support for your features and applications
+
+
+   So, if you have the experience above, please apply today or email me directly at Hanna.Hailee@cybercoders.com!
+
+
+   Colorado employees will receive paid sick leave. For additional information about available benefits, please contact Hanna Haile
+
+
+Applicants must be authorized to work in the U.S.
+
+CyberCoders, Inc is proud to be an Equal Opportunity Employer
+
+ All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+
+Your Right to Work – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.
+
+
+ _________________________________New Job______________________________
+
+ Equivalent Experience
+
+
+Description:
+
+
+Specify, design, develop, and test SW that commands and communicates with embedded devices, generally in C, Embedded Linux
+Need them to be pretty self-sufficient but also be comfortable working in a collaborative environment to seek out input, interface and requirement definition, etc.
+Probably 5-7+ years experience in general but can be flexible
+Prefer someone with familiarity/expertise with: C, Embedded Linux, Gitlab
+Develop and document software requirements and verification plans; develop software use-cases
+Support development of software architecture
+Design and develop and test flight software code and related test scripts
+Ensure that adequate test, inspection, and analysis reports verify compliance with the requirements
+Support major customer reviews of software integration & test efforts
+Resolve bugs found by yourself, other developers, test engineers, systems engineers, production, or operations
+
+Skills:
+ Software Development
+C
+Embedded
+Hardware
+Linux
+Embedded C
+Embedded Linux
+C++
+Avionics
+Satellites
+Python
+Electrical Engineer
+Computer engineer
+Gitlab
+
+
+Additional Skills & Qualifications:
+
+
+Must be a U.S. Person. Due to government regulation of the space industry, this requirement cannot be waived.
+Bachelor of Science or greater in Electrical or Computer Engineering, or a related field
+5+ years of experience delivering and maintaining commercial software in a production environment
+Expertise with Linux and C
+Familiarity with software version control management tools such as Git
+Passion for working closely with hardware
+
+Bonus Skills:
+
+
+Knowledge of Python and C++
+Experience in high reliability, safety critical, or regulated environments
+Knowledge of FPGA (e.g. VHDL)
+Experience with requirements management tools (e.g. JAMA, DOORs, etc.)
+Experience with software scheduling and tasking tools (e.g. Jira)
+Experience with integrating open source software with internal development
+Capability to use electrical measurement equipment i.e.: function generators, oscilloscopes
+
+About Actalent:
+ Actalent connects passion with purpose. Our scalable talent solutions and services capabilities drive value and results and provide the expertise to help our customers achieve more. Every day, our experts around the globe are making an impact. We’re supporting critical initiatives in engineering and sciences that advance how companies serve the world. Actalent promotes consultant care and engagement through experiences that enable continuous development. Our people are the difference. Actalent is an operating company of Allegis Group, the global leader in talent solutions.
+
+ The company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.
+
+ _________________________________New Job______________________________
+
+
+ Remote DevOps Engineer
+
+Title: DevOps Engineer
+
+Location: 100% Remote
+
+Salary: $140,000-165,000
+
+Requirements:
+ 1. Recent hands on experience with AWS
+   2. Experience with Terraform
+
+ We are a FAST growing healthcare SaaS startup located in Seattle, WA. Founded by serial entrepreneurs, we are disrupting the healthcare industry and are on a mission to change people's lives through AI technology. Due to our continued rapid growth, we are looking to hire an experienced and motivated DevOps Engineer to join our team immediately.
+
+ Recent AWS experience is a must! Terraform is also a must have.
+
+ In this role, you will make a real, positive difference in other people's lives through your work. We are extremely proud to be applying our efforts to improve health options for everyone.
+
+ This is a 100% remote, full time permanent position.
+  -Candidates with completed questionnaires will be reviewed first!-
+
+ What You Will Be Doing
+
+Design, develop, manage and deploy cloud infrastructure as code on AWS
+Own the cluster lifecycle for ECS and Kubernetes clusters EC2 instances, to the troubleshooting and maintenance of the containers/pods and their networking components
+Collaborate as an integrated member of a cross functional team, bringing your cloud expertise to the software and system design process
+Champion cloud native design patterns as an AWS subject matter expert, designing all implementations against the AWS Well Architected-Framework
+Design, build and maintain network connectivity and VPN solutions between us and our customers. We leverage site-to-site VPN solutions in AWS and you will become familiar with these technologies. Be a point of contact to troubleshoot networking issues with our customers
+Identify inefficiencies and improve processes with solutions that increase integration velocity
+Ability to manage and prioritize multiple tasks intelligently
+
+ What You Need for this Position
+
+ Must Haves:
+
+
+Hands on experiences with AWS, with strong level knowledge of the following services: Codebuild, EC2, ECS, IAM, S3, SQS, VPC
+Deep understanding and expertise in one or more of the following areas: Kubernetes, CI/CD, Networking, or Cloud Security
+Hands on experiences writing automation scripts, e.g. shell scripting, Python and NodeJS.
+Infrastructure automation using Terraform or similar infrastructure as code technologies
+Container and Container Management including Docker, Kubernetes, EKS, etc.
+Excellent verbal and written communication skills
+
+
+ Nice to Haves:
+
+
+Experiences working in production environments with high standard of compliance requirements, such as HIPAA and PCI-DSS
+Experiences with VPN solutions. Good knowledge of networking, Cisco VPN router configuration, nginx, TLS, HTTPS and network security protocols and other VPN and WAN technologies, such as Checkpoint software
+Working knowledge of Linux
+
+
+ What's In It for You
+
+Competitive Salary
+Medical, Dental, Vision Insurance
+Meaningful Equity
+
+ Benefits
+
+Vacation/PTO
+Medical
+Dental
+Vision
+
+
+   So, if you are a Remote DevOps Engineer with AWS and Terraform experience, please apply today!
+
+
+   Colorado employees will receive paid sick leave. For additional information about available benefits, please contact Rachel Reid
+
+
+Applicants must be authorized to work in the U.S.
+
+CyberCoders, Inc is proud to be an Equal Opportunity Employer
+
+ All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+
+Your Right to Work – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.
+
+
+ _________________________________New Job______________________________
+
+ Equivalent Experience
+
+
+Description:
+ To provide connectivity and internet access to 95% of the world, including underserved areas.
+
+The Team: In order to support these constellations at a low earth orbit, we need the software to support these satellites. His team is building out the network so the communication can happen, and using optical communication to do this. Each satellite will have optical terminals and they need to point to one another. They will establish the links, maintain those links as they orbit the earth and that’s the primary medium for connecting these satellites. Dee’s team is 6 software engineers, and broken into several subsystems. Need to be able to move information throughout the entire constellation.
+
+Description: The satellites are comprised of optics, controls, and electronics and this team does the software development to support all of this. Dee is currently building out embedded applications for how they control these applications. This role, the Software Engineer will look at what data, what sensors, and what diagnostics are necessary to capture performance of the terminals, and then the team will be implementing the control loops with software and FPGA.
+
+
+Skills:
+ C/C++
+Python
+Linux
+
+
+Additional Skills & Qualifications:
+ Development is primarily done in Rust, which is a newer language and the rest is done in C. Willing to train on Rust. Rust is a huge plus, but not required.
+A lot of telemetry that they capture from the terminals, downlinked from the ground. This is not necessarily embedded in nature, this could be data driven and automated to run rules, checks and monitors, build out visuals etc. Going to build out test systems and do a ton of testing.
+
+ Python, or automation – building testing frameworks to help them with AI&T campaign (sp), this would be a good compliment.
+
+
+About Actalent:
+ Actalent connects passion with purpose. Our scalable talent solutions and services capabilities drive value and results and provide the expertise to help our customers achieve more. Every day, our experts around the globe are making an impact. We’re supporting critical initiatives in engineering and sciences that advance how companies serve the world. Actalent promotes consultant care and engagement through experiences that enable continuous development. Our people are the difference. Actalent is an operating company of Allegis Group, the global leader in talent solutions.
+
+ The company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.
+
+ _________________________________New Job______________________________
+
+ Job Description
+At Boeing, we innovate and collaborate to make the world a better place. From the seabed to outer space, you can contribute to work that matters with a company where diversity, equity and inclusion are shared values. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us.
+Boeing is looking for a Associate Software Engineer based out of Seattle, Washington.
+
+ The ONS (Onboard Network Systems) team is looking for Software Engineers to develop application software. ONS software manages onboard networks, off-board communication, LRU (Line Replaceable Unit) data load, file storage, third party developed software, and a whole host of additional features that airline customers rely on.
+
+ Software Engineers will work in multi-disciplinary teams with Systems Engineers, Testers, business leaders, and airline customers to design and build new ONS platform features. The ONS platform software uses a number of technologies and the team is in need of Engineers with a wide variety of software engineering skills.
+
+
+Position Responsibilities:
+ Assists with the development, documentation and maintenance of architectures, requirements, algorithms, interfaces and designs for software systems.
+
+ Develops and maintains code and integrates software components into a fully functional software system.
+
+ Supports software project management and software supplier management functions.
+
+ Selects, tailors and deploys processes and tools; establishes metrics.
+
+ Performs software research and trade studies.
+
+ Interacts primarily with internal personnel and infrequently with inter-organizational and external customers on routine matters.
+
+ Troubleshoots software issues.
+
+ Works under general supervision.
+
+ This position must meet Export Control compliance requirements, therefore a “US Person” as defined by 22 C.F.R. § 120.15 is required. “US Person” includes US Citizen, lawful permanent resident, refugee, or asylee.
+
+ This position allows telecommuting. The selected candidate will be required to perform some work onsite at one of the listed location options.
+
+
+Basic Qualifications (Required Skills/Experience):
+ Bachelor's degree or greater from an accredited course of study in engineering, computer science, mathematics, physics, chemistry or related technical degree field.
+
+ 2+ years software development experience
+
+ Experience in C++ or Python or Java
+
+ Experience using git version control
+
+
+Preferred Qualifications (Desired Skills/Experience):
+ 2+ Years of professional development experience managing project source code in a Git repository.
+
+ 1+ Years of professional experience maintaining a software component build (e.g. make, cmake, autotools, etc.)
+
+ 1+ Years of professional experience analyzing and resolving code bugs.
+
+ Networking Experience for debugging issues
+
+ Knowledge of Client/Server architecture
+
+
+Typical Education/Experience:
+ Education/experience typically acquired through advanced technical education from an accredited course of study in engineering, computer science, mathematics, physics or chemistry (e.g. Bachelor) and typically 2 or more years' related work experience or an equivalent combination of technical education and experience (e.g. Master). In the USA, ABET accreditation is the preferred, although not required, accreditation standard.
+
+
+Relocation:
+ This position offers relocation based on candidate eligibility.
+
+
+Shift Work Statement:
+ This position is for 1st shift
+
+
+Union:
+ This is a union represented position
+
+
+Drug Free Workplace:
+ Boeing is a Drug Free Workplace where post offer applicants and employees are subject to testing for marijuana, cocaine, opioids, amphetamines, PCP, and alcohol when criteria is met as outlined in our policies .
+
+
+Equal Opportunity Employer:
+ Boeing is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law.
+
+ _________________________________New Job______________________________
+
+
+About the role:
+
+   Collaborates with stakeholders within the team to build and maintain backend services and solutions to support user-facing products, downstream services, or infrastructure tools and platforms used across Uber.
+
+
+ About the Team:
+
+   As a Software Engineer at Uber, you will architect highly-performant, reliable, applications used by millions of external customers every day. You will have a unique opportunity to work closely and partner with a growing Uber for Business team, to build world class Help Center and Support experiences for their product. Uber for Business has customers 25+ countries and 50% of those are Fortune 500. As part of this team, systems you build will be directly impacting these customers and their support experience. At Uber, we have a high bar for quality & efficiency - you will collaborate closely with your Tech Lead, Product Managers and Business Operations teams to build for scale, yet solution focussed on providing delightful customer experiences. The team is focussed on high business impact, where every product we ship is measured and tracked with cost savings and/or efficiency improvement. We are just getting started, come and join us for an exciting ride!
+
+ Minimum qualifications:
+
+ Bachelor’s degree or equivalent in Computer Science, Engineering, Mathematics or related field OR 1-year full-time Software Engineering work experience, WHICH INCLUDES 1-year total technical software engineering experience in one or more of the following areas:
+
+
+
+ Programming language (e.g. C, C++, Java, Python, or Go)
+
+
+
+ Note the 1-year total of specialized software engineering experience may have been gained through education and full-time work experience, additional training, coursework, research, or similar (OR some combination of these). The year of specialized experience is not necessarily in addition to the years of Education & full-time work experience indicated.
+
+ Technical skills:
+
+   Preferred:
+
+
+
+ Scalability engineering
+ Distributed systems
+ Experience coding with GO and Python
+ Bonus - front end experience (React, JS)
+ Strong collaboration skills and passion for learning new technologies
+ Experience with relational databases and distributed storage systems (MySQL, Cassandra, Elasticsearch, Redis)
+
+
+ At Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 600 cities around the world!
+ We welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have a curiosity, passion and collaborative spirit, work with us, and let’s move the world forward, together!
+ Uber is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
+ If you have a disability or special need that requires accommodation, please let us know by completing this form.
+
+
+
+ _________________________________New Job______________________________
+
+
+
+A World-Changing Company
+
+
+
+ At Palantir, we’re passionate about building software that solves problems. We partner with the most important institutions in the world to transform how they use data and technology. Our software has been used to stop terrorist attacks, discover new medicines, gain an edge in global financial markets, and more. If these types of projects excite you, we'd love for you to join us.
+
+
+
+ The Role
+
+
+
+ Software Engineers at Palantir build software at scale to transform how organizations around the world use data. As a Software Engineer, you'll contribute high-quality code to Palantir Gotham or Palantir Foundry: products that are deployed to the most important institutions in the public and private sector. You'll build features used by research scientists, aerospace engineers, intelligence analysts, and economic forecasters, in countries around the world.
+
+
+
+ Palantir's Product Development organization is made up of small teams of Software Engineers. Each team focuses on a specific aspect of a product: for example, you might be part of a team that builds a Foundry front-end application, or a component of the Gotham release infrastructure. We encourage movement among teams to share context, skills, and experience, so you'll learn about many different aspects of each product.
+
+
+
+ Software Engineers are involved throughout the product lifecycle, from idea generation, design, and prototyping to execution, and shipping. As a Software Engineer, you'll collaborate closely with technical and non-technical counterparts to understand our customers' problems and build products that solve them. We think the best way to understand what our users need is to meet them, so occasionally, you'll tour the assembly line at an auto manufacturer or join a counter-terror analyst at their desk to really understand their mission and their pain points.
+
+
+
+ It doesn’t matter what languages you know when you join us, but it does matter that you can write clean, effective code and learn new languages quickly. Our software is constantly evolving, so we need engineers who can do the same. Alongside peers who bring diverse experience — startup founders, industry veterans, university TAs, and more — you'll build your skillset to apply the best technology to solve a given problem. Right now, we use:
+
+
+
+ A variety of languages, including Java and Go for back end and Typescript for front end
+Open-source technologies like Cassandra, Spark, ElasticSearch, React, and Redux
+Industry-standard build tooling, including Gradle, Webpack, and Github
+
+
+
+ Whether you aspire to be an entrepreneur or an engineering leader, we believe Palantir is the best place — with the best colleagues — to learn how. You’ll learn how to unpack a problem and understand the costs and consequences of its solution. You’ll learn new technologies and languages, and even develop them yourself. You’ll work autonomously and make decisions independently, within a community that will support and challenge you as you grow and develop.
+
+ What We Value
+
+ Strong engineering background in fields such as Computer Science, Mathematics, Software Engineering, and Physics.
+ Familiarity with data structures, storage systems, cloud infrastructure, front-end frameworks, and other technical tools.
+ Strong coder with demonstrated proficiency in programming languages, such as Java, C++, Python, JavaScript, or similar languages.
+ Demonstrated ability to collaborate and empathize with a variety of individuals. You can iterate with users and non-technical stakeholders and understand how your technical decisions impact them.
+ Demonstrated ability to learn and work independently and make decisions with minimal supervision.
+ A desire to work on software that can change the world and a passion for creating intuitive, scalable products that augment our users' ability to work with data.
+ Active US Security clearance, or eligibility and willingness to obtain a US Security clearance is beneficial but not necessary.
+
+
+   Palantir is committed to promoting a culture of diversity, equity, and inclusion and is proud to be an Equal Employment Opportunity and Affirmative Action employer. We believe that all Palantirians share the responsibility of upholding our commitment to these values and encourage candidates from a wide range of backgrounds, perspectives, and lived experiences to join us in solving the world's hardest problems. Palantir does not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. Palantir is committed to working with and providing reasonable accommodations to applicants with physical and mental disabilities. Please see the United States Department of Labor's EEO poster and EEO poster supplement for additional information.
+
+
+
+ Palantir is committed to making the job application process accessible to everyone. If you are living with a disability (visible or not visible) and need to request a reasonable accommodation for any part of the application or hiring process, please reach out and let us know how we can help.
+
+
+
+ _________________________________New Job______________________________
+
+
+
+
+
+Summary
+
+
+      Posted: Apr 15, 2022
+
+
+      Weekly Hours:
+      40
+
+
+      Role Number:
+      200368267
+
+
+
+     The Apple Media Products Engineering team is one of the most exciting examples of Apple’s long-held passion for combining art and technology. These are the people who power the App Store, Apple TV, Apple Music, Apple Podcasts, and Apple Books. And they do it on a massive scale, meeting Apple’s high expectations with high performance to deliver a huge variety of entertainment in over 35 languages to more than 150 countries. These engineers build secure, end-to-end solutions. They develop the custom software used to process all the creative work, the tools that providers use to deliver that media, all the server-side systems, and the APIs for many Apple services. Thanks to Apple’s unique integration of hardware, software, and services, engineers here partner to get behind a single unified vision. That vision always includes a deep commitment to strengthening Apple’s privacy policy, one of Apple’s core values. Although services are a bigger part of Apple’s business than ever before, these teams remain small, nimble, and cross-functional, offering greater exposure to the array of opportunities here.
+
+
+
+
+
+
+
+
+
+Key Qualifications
+
+
+
+
+3+ years experience testing Client/Server and Web Based applications
+Proficient with with Web UI Automation tools such as TestCafe, Selenium, XCTest
+Experience with Python driven test development
+Highly organized, creative, and passionate about achieving results
+Experience developing detailed test plans, assessing risks, filing detailed defect reports, and providing relevant data for test reporting
+Knowledgeable and curious about how software applications function beneath the user interface
+Able to apply creativity and analytical thinking to all kinds of problems, such test case creation and execution
+Strong organizational skills enabling both independent and team work
+
+
+
+
+
+
+
+
+
+
+Description
+
+
+
+       The App Store Connect QA team is looking for an experienced Software UI QA Engineer to support new features to App Store Connect, the web based App Management portal for Apple’s App Developer community. In this role you will work side-by-side with developers and peers to author and complete manual tests and expand our automated test suite. You will be responsible for crafting, implementing, and executing test plans and test suites based on software specification and design documents. You will help ensure the successful delivery of a quality product by performing ad-hoc and structured tests.
+
+
+
+
+
+
+
+
+
+Education & Experience
+
+
+
+       Bachelors degree or 3 years equivalent experience testing software
+
+
+
+
+
+
+
+
+
+Additional Requirements
+
+
+
+
+Proficiency with API test tools (PAW, JMeter, Postman) a plus
+
+
+
+
+
+
+
+
+
+ _________________________________New Job______________________________
+
+ Senior Software Engineer - Data Platform - Kent, WA
+6-month contract Pay $122.00 $153.00/hr BOE.
+US Citizen/Person or Permeant Resident
+Sorry, No C2C or third party resumes.
+Job Description:
+Our client is a diverse team of collaborators, doers, and problem-solvers who are relentlessly committed to a culture of safety. This position will directly impact the history of space exploration and will require your commitment and detailed attention towards safe and repeatable space flight. Join our client in lowering the cost of access to space and enabling our client’s vision of millions of people living and working in space to benefit Earth.
+Data is the lifeblood of an organization and integration services is the arterial system responsible to sustain and nourish the enterprise. We are a team of enablers building the arterial systems of the company that is building the road to space to benefit the earth.
+As an engineering leader with vision, your passion for Blue Origin's mission, future of space exploration and developer efficiency will drive our data platform to enable federated data development across Blue Origin. This position requires unrelenting customer experience, and operational excellence!Responsibilities:
+
+Design, develop and maintain metadata driven data pipeline automation framework(s) for batch, event and streaming data in cloud native environment
+Develop data modeling standards, governance, automation frameworks and developer tooling to standardize and accelerate data delivery across the organization.
+Design and implement data models for APIs/Events/Batch based system and data integration
+Rapid prototyping and presenting proof of concepts for key technology decision to collaborators and other technology leaders.
+Build end to end data pipelines from source to target ensuring data quality, consistency and observability using DataOps principles
+Coach and mentor fellow and junior engineers
+
+Basic Qualifications:
+
+Bachelor’s degree in Computer Science or equivalent
+5+ year software development delivery accountability
+3+ years of hand on experience in metadata management, metadata driven automation and developer efficiency tooling
+3+ years of cloud native data solutions enabling Analytics, Operational, Data Science and ML use cases
+3+ year of large scale event-driven and streaming solutions in cloud native environment
+5+ years with advanced SQL and scripting (python/bash etc.) development
+Excellent verbal and written communications skills
+Must be a U.S. citizen or national, U.S. permanent resident (current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum.
+
+Preferred Qualifications
+
+Master's degree or higher in Computer Science, Mathematics, Statistics, or similar analytical field.
+Manufacturing and/or Aerospace experience
+Experience working/collaborating with Master Data Management, Metadata Management and Data Governance
+
+Engineer - Data Sr 002832
+Job Type: Contract
+Pay: $122.00 - $153.00 per hour
+Benefits:
+
+401(k)
+Health insurance
+
+Schedule:
+
+8 hour shift
+
+COVID-19 considerations:COVID-19 precautions are in place
+Application Question(s):
+
+Describe your day to day activities
+Describe the most complex integration you build. How did you measure the success of your integration?
+
+Experience:
+
+software development delivery accountability: 4 years (Required)
+cloud native data solutions enabling Analytics: 3 years (Required)
+large scale event-driven and streaming solutions: 3 years (Required)
+advanced SQL and scripting (python/bash etc.) development: 5 years (Required)
+Manufacturing and/or Aerospace: 1 year (Preferred)
+working/collaborating with Master Data Management: 1 year (Preferred)
+
+Work Location: One location
+
+ _________________________________New Job______________________________
+
+
+ Cloud Engineer
+
+  If you are a Cloud Engineer with experience, please read on!
+
+ Top Reasons to Work with Us
+
+   Fast growing SaaS company is looking for an experienced Cloud Engineer. Client has over 200 employees and over $40M in funding. Has won numerous awards and recognition for their software.
+
+ What You Will Be Doing
+
+Part of product team (cloud governance) installing, configuring, automating and monitoring Cloud services (IaaS, PaaS and SaaS)
+Be a subject matter expert in cloud experience, assist global enterprise clients working with multiple cloud platforms
+Ensure internal and customer hosts and services thru monitoring, analyzing metrics and investigating alerts
+Explore and implement broad open source technologies. Help team to resolve technical issues.
+Customer focused, available on-call for solving critical problems
+Help process improvement in product deployments, cloud governance and customer success
+
+ What You Need for this Position
+
+Experience managing Azure/Cloud IaaS, PaaS services
+Experience with DevOps technologies, automation, infrastructure orchestration configuration and CI/CD
+Experience in Linux and Windows Administration, server hardening
+Web and Application Server technologies like Apache, Nginix, IIS
+Experience with at least one scripting language like Bash, PowerShell, Ruby or Python
+Network protocols like HTTP, DNS and TCP/IP
+Experience managing control platforms like Git or SVN (or others)
+
+ What's In It for You
+
+Vacation/PTO
+Medical
+Dental
+Vision
+Bonus
+401k
+Equity
+
+ Benefits
+
+Vacation/PTO
+Medical
+Dental
+Vision
+Bonus
+401k
+Equity
+
+
+   So, if you are a Cloud Engineer with experience, please apply today!
+
+
+   Colorado employees will receive paid sick leave. For additional information about available benefits, please contact Abel Echemendia
+
+
+Applicants must be authorized to work in the U.S.
+
+CyberCoders, Inc is proud to be an Equal Opportunity Employer
+
+ All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+
+Your Right to Work – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.
+
+
+ _________________________________New Job______________________________
+
+
+ Senior Software Engineer (Python)! 100% REMOTE!
+
+  We are on a mission to empower teams across the world to deliver cloud-based search applications and experiences faster and with more confidence! Our market is growing fast and we are profitable with no outside INVESTMENT! Companies like Toyota, Stanley Black & Decker and Carnival, count on us! We are responsible for designing, architecting, developing, testing, and scaling our PaaS/SaaS products that serve hundreds of customers across the globe. We have an ambitious roadmap and are looking for an experienced Senior Software Engineer to join our product development team.
+
+ Our tech stack: Python, Django, AWS (RDS, S3), Terraform, Ansible, MongoDB, Redis, Apache Solr & Elasticsearch. We follow modified Agile Scrum with 2-week sprints, daily standups and are a fully remote team across the globe (US, Europe, India).
+
+ What's In It for You
+
+Competitive salaries
+Medical, dental, and vision coverage for you and your family, along with other wellness and disability plans
+10 paid holidays; competitive and flexible paid time off policy
+401(k) with company match to all employees
+An opportunity to be more than just an engineer and help shape our technical destiny!
+
+ What You Need for this Position
+
+6+ years of professional software engineering experience, including SaaS application development
+Python in a production environment
+Ansible
+Terraform
+Understanding what it means to craft software that is a part of a larger microservice architecture
+Familiar with at least one auth and identity protocol such as OAuth 2.0, OIDC, or SAML
+Expertise in developing and working with thoughtfully designed REST APIs and SDKs
+Familiarity with major cloud platforms such as Amazon Web Services, Google Cloud, or Microsoft Azure
+Strong understanding of data modeling and storage with NoSQL and RDBMS
+A BS Computer Science or Electrical Engineering or equivalent
+Django (Plus)
+Elasticsearch or Apache Solr (Plus)
+
+ What You Will Be Doing
+
+Architecting and developing web, software, and mobile apps
+Coming up with feasible and practical solutions to tough problems
+Write very high-quality code that is robust and easy to maintain with tests
+Drive tasks to completion and take ownership of projects
+Work and succeed in a fast-paced and agile development environment
+Identify and drive improvements to our software and development processes
+Conduct peer design/code reviews
+Work with distributed teams across different time zones
+Technical subject matter expert, who mentors fellow engineers, demonstrates technical experience and leads teams in solving challenging problems
+Provide fanatical production support for your features and applications
+
+
+   So, if you have the experience above, please apply today or email me directly at Hanna.Hailee@cybercoders.com!
+
+
+   Colorado employees will receive paid sick leave. For additional information about available benefits, please contact Hanna Haile
+
+
+Applicants must be authorized to work in the U.S.
+
+CyberCoders, Inc is proud to be an Equal Opportunity Employer
+
+ All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+
+Your Right to Work – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.
+
+
+ _________________________________New Job______________________________
+
+ Equivalent Experience
+
+
+Description:
+
+
+Specify, design, develop, and test SW that commands and communicates with embedded devices, generally in C, Embedded Linux
+Need them to be pretty self-sufficient but also be comfortable working in a collaborative environment to seek out input, interface and requirement definition, etc.
+Probably 5-7+ years experience in general but can be flexible
+Prefer someone with familiarity/expertise with: C, Embedded Linux, Gitlab
+Develop and document software requirements and verification plans; develop software use-cases
+Support development of software architecture
+Design and develop and test flight software code and related test scripts
+Ensure that adequate test, inspection, and analysis reports verify compliance with the requirements
+Support major customer reviews of software integration & test efforts
+Resolve bugs found by yourself, other developers, test engineers, systems engineers, production, or operations
+
+Skills:
+ Software Development
+C
+Embedded
+Hardware
+Linux
+Embedded C
+Embedded Linux
+C++
+Avionics
+Satellites
+Python
+Electrical Engineer
+Computer engineer
+Gitlab
+
+
+Additional Skills & Qualifications:
+
+
+Must be a U.S. Person. Due to government regulation of the space industry, this requirement cannot be waived.
+Bachelor of Science or greater in Electrical or Computer Engineering, or a related field
+5+ years of experience delivering and maintaining commercial software in a production environment
+Expertise with Linux and C
+Familiarity with software version control management tools such as Git
+Passion for working closely with hardware
+
+Bonus Skills:
+
+
+Knowledge of Python and C++
+Experience in high reliability, safety critical, or regulated environments
+Knowledge of FPGA (e.g. VHDL)
+Experience with requirements management tools (e.g. JAMA, DOORs, etc.)
+Experience with software scheduling and tasking tools (e.g. Jira)
+Experience with integrating open source software with internal development
+Capability to use electrical measurement equipment i.e.: function generators, oscilloscopes
+
+About Actalent:
+ Actalent connects passion with purpose. Our scalable talent solutions and services capabilities drive value and results and provide the expertise to help our customers achieve more. Every day, our experts around the globe are making an impact. We’re supporting critical initiatives in engineering and sciences that advance how companies serve the world. Actalent promotes consultant care and engagement through experiences that enable continuous development. Our people are the difference. Actalent is an operating company of Allegis Group, the global leader in talent solutions.
+
+ The company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.
+
+ _________________________________New Job______________________________
+
+
+ Remote DevOps Engineer
+
+Title: DevOps Engineer
+
+Location: 100% Remote
+
+Salary: $140,000-165,000
+
+Requirements:
+ 1. Recent hands on experience with AWS
+   2. Experience with Terraform
+
+ We are a FAST growing healthcare SaaS startup located in Seattle, WA. Founded by serial entrepreneurs, we are disrupting the healthcare industry and are on a mission to change people's lives through AI technology. Due to our continued rapid growth, we are looking to hire an experienced and motivated DevOps Engineer to join our team immediately.
+
+ Recent AWS experience is a must! Terraform is also a must have.
+
+ In this role, you will make a real, positive difference in other people's lives through your work. We are extremely proud to be applying our efforts to improve health options for everyone.
+
+ This is a 100% remote, full time permanent position.
+  -Candidates with completed questionnaires will be reviewed first!-
+
+ What You Will Be Doing
+
+Design, develop, manage and deploy cloud infrastructure as code on AWS
+Own the cluster lifecycle for ECS and Kubernetes clusters EC2 instances, to the troubleshooting and maintenance of the containers/pods and their networking components
+Collaborate as an integrated member of a cross functional team, bringing your cloud expertise to the software and system design process
+Champion cloud native design patterns as an AWS subject matter expert, designing all implementations against the AWS Well Architected-Framework
+Design, build and maintain network connectivity and VPN solutions between us and our customers. We leverage site-to-site VPN solutions in AWS and you will become familiar with these technologies. Be a point of contact to troubleshoot networking issues with our customers
+Identify inefficiencies and improve processes with solutions that increase integration velocity
+Ability to manage and prioritize multiple tasks intelligently
+
+ What You Need for this Position
+
+ Must Haves:
+
+
+Hands on experiences with AWS, with strong level knowledge of the following services: Codebuild, EC2, ECS, IAM, S3, SQS, VPC
+Deep understanding and expertise in one or more of the following areas: Kubernetes, CI/CD, Networking, or Cloud Security
+Hands on experiences writing automation scripts, e.g. shell scripting, Python and NodeJS.
+Infrastructure automation using Terraform or similar infrastructure as code technologies
+Container and Container Management including Docker, Kubernetes, EKS, etc.
+Excellent verbal and written communication skills
+
+
+ Nice to Haves:
+
+
+Experiences working in production environments with high standard of compliance requirements, such as HIPAA and PCI-DSS
+Experiences with VPN solutions. Good knowledge of networking, Cisco VPN router configuration, nginx, TLS, HTTPS and network security protocols and other VPN and WAN technologies, such as Checkpoint software
+Working knowledge of Linux
+
+
+ What's In It for You
+
+Competitive Salary
+Medical, Dental, Vision Insurance
+Meaningful Equity
+
+ Benefits
+
+Vacation/PTO
+Medical
+Dental
+Vision
+
+
+   So, if you are a Remote DevOps Engineer with AWS and Terraform experience, please apply today!
+
+
+   Colorado employees will receive paid sick leave. For additional information about available benefits, please contact Rachel Reid
+
+
+Applicants must be authorized to work in the U.S.
+
+CyberCoders, Inc is proud to be an Equal Opportunity Employer
+
+ All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+
+Your Right to Work – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.
+
+
+ _________________________________New Job______________________________
+
+ Equivalent Experience
+
+
+Description:
+ To provide connectivity and internet access to 95% of the world, including underserved areas.
+
+The Team: In order to support these constellations at a low earth orbit, we need the software to support these satellites. His team is building out the network so the communication can happen, and using optical communication to do this. Each satellite will have optical terminals and they need to point to one another. They will establish the links, maintain those links as they orbit the earth and that’s the primary medium for connecting these satellites. Dee’s team is 6 software engineers, and broken into several subsystems. Need to be able to move information throughout the entire constellation.
+
+Description: The satellites are comprised of optics, controls, and electronics and this team does the software development to support all of this. Dee is currently building out embedded applications for how they control these applications. This role, the Software Engineer will look at what data, what sensors, and what diagnostics are necessary to capture performance of the terminals, and then the team will be implementing the control loops with software and FPGA.
+
+
+Skills:
+ C/C++
+Python
+Linux
+
+
+Additional Skills & Qualifications:
+ Development is primarily done in Rust, which is a newer language and the rest is done in C. Willing to train on Rust. Rust is a huge plus, but not required.
+A lot of telemetry that they capture from the terminals, downlinked from the ground. This is not necessarily embedded in nature, this could be data driven and automated to run rules, checks and monitors, build out visuals etc. Going to build out test systems and do a ton of testing.
+
+ Python, or automation – building testing frameworks to help them with AI&T campaign (sp), this would be a good compliment.
+
+
+About Actalent:
+ Actalent connects passion with purpose. Our scalable talent solutions and services capabilities drive value and results and provide the expertise to help our customers achieve more. Every day, our experts around the globe are making an impact. We’re supporting critical initiatives in engineering and sciences that advance how companies serve the world. Actalent promotes consultant care and engagement through experiences that enable continuous development. Our people are the difference. Actalent is an operating company of Allegis Group, the global leader in talent solutions.
+
+ The company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.
+
+ _________________________________New Job______________________________
+
+ Job Description
+At Boeing, we innovate and collaborate to make the world a better place. From the seabed to outer space, you can contribute to work that matters with a company where diversity, equity and inclusion are shared values. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us.
+Boeing is looking for a Associate Software Engineer based out of Seattle, Washington.
+
+ The ONS (Onboard Network Systems) team is looking for Software Engineers to develop application software. ONS software manages onboard networks, off-board communication, LRU (Line Replaceable Unit) data load, file storage, third party developed software, and a whole host of additional features that airline customers rely on.
+
+ Software Engineers will work in multi-disciplinary teams with Systems Engineers, Testers, business leaders, and airline customers to design and build new ONS platform features. The ONS platform software uses a number of technologies and the team is in need of Engineers with a wide variety of software engineering skills.
+
+
+Position Responsibilities:
+ Assists with the development, documentation and maintenance of architectures, requirements, algorithms, interfaces and designs for software systems.
+
+ Develops and maintains code and integrates software components into a fully functional software system.
+
+ Supports software project management and software supplier management functions.
+
+ Selects, tailors and deploys processes and tools; establishes metrics.
+
+ Performs software research and trade studies.
+
+ Interacts primarily with internal personnel and infrequently with inter-organizational and external customers on routine matters.
+
+ Troubleshoots software issues.
+
+ Works under general supervision.
+
+ This position must meet Export Control compliance requirements, therefore a “US Person” as defined by 22 C.F.R. § 120.15 is required. “US Person” includes US Citizen, lawful permanent resident, refugee, or asylee.
+
+ This position allows telecommuting. The selected candidate will be required to perform some work onsite at one of the listed location options.
+
+
+Basic Qualifications (Required Skills/Experience):
+ Bachelor's degree or greater from an accredited course of study in engineering, computer science, mathematics, physics, chemistry or related technical degree field.
+
+ 2+ years software development experience
+
+ Experience in C++ or Python or Java
+
+ Experience using git version control
+
+
+Preferred Qualifications (Desired Skills/Experience):
+ 2+ Years of professional development experience managing project source code in a Git repository.
+
+ 1+ Years of professional experience maintaining a software component build (e.g. make, cmake, autotools, etc.)
+
+ 1+ Years of professional experience analyzing and resolving code bugs.
+
+ Networking Experience for debugging issues
+
+ Knowledge of Client/Server architecture
+
+
+Typical Education/Experience:
+ Education/experience typically acquired through advanced technical education from an accredited course of study in engineering, computer science, mathematics, physics or chemistry (e.g. Bachelor) and typically 2 or more years' related work experience or an equivalent combination of technical education and experience (e.g. Master). In the USA, ABET accreditation is the preferred, although not required, accreditation standard.
+
+
+Relocation:
+ This position offers relocation based on candidate eligibility.
+
+
+Shift Work Statement:
+ This position is for 1st shift
+
+
+Union:
+ This is a union represented position
+
+
+Drug Free Workplace:
+ Boeing is a Drug Free Workplace where post offer applicants and employees are subject to testing for marijuana, cocaine, opioids, amphetamines, PCP, and alcohol when criteria is met as outlined in our policies .
+
+
+Equal Opportunity Employer:
+ Boeing is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law.
+
+ _________________________________New Job______________________________
+
+
+About the role:
+
+   Collaborates with stakeholders within the team to build and maintain backend services and solutions to support user-facing products, downstream services, or infrastructure tools and platforms used across Uber.
+
+
+ About the Team:
+
+   As a Software Engineer at Uber, you will architect highly-performant, reliable, applications used by millions of external customers every day. You will have a unique opportunity to work closely and partner with a growing Uber for Business team, to build world class Help Center and Support experiences for their product. Uber for Business has customers 25+ countries and 50% of those are Fortune 500. As part of this team, systems you build will be directly impacting these customers and their support experience. At Uber, we have a high bar for quality & efficiency - you will collaborate closely with your Tech Lead, Product Managers and Business Operations teams to build for scale, yet solution focussed on providing delightful customer experiences. The team is focussed on high business impact, where every product we ship is measured and tracked with cost savings and/or efficiency improvement. We are just getting started, come and join us for an exciting ride!
+
+ Minimum qualifications:
+
+ Bachelor’s degree or equivalent in Computer Science, Engineering, Mathematics or related field OR 1-year full-time Software Engineering work experience, WHICH INCLUDES 1-year total technical software engineering experience in one or more of the following areas:
+
+
+
+ Programming language (e.g. C, C++, Java, Python, or Go)
+
+
+
+ Note the 1-year total of specialized software engineering experience may have been gained through education and full-time work experience, additional training, coursework, research, or similar (OR some combination of these). The year of specialized experience is not necessarily in addition to the years of Education & full-time work experience indicated.
+
+ Technical skills:
+
+   Preferred:
+
+
+
+ Scalability engineering
+ Distributed systems
+ Experience coding with GO and Python
+ Bonus - front end experience (React, JS)
+ Strong collaboration skills and passion for learning new technologies
+ Experience with relational databases and distributed storage systems (MySQL, Cassandra, Elasticsearch, Redis)
+
+
+ At Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 600 cities around the world!
+ We welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have a curiosity, passion and collaborative spirit, work with us, and let’s move the world forward, together!
+ Uber is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
+ If you have a disability or special need that requires accommodation, please let us know by completing this form.
+
+
+
+ _________________________________New Job______________________________
+
+
+
+A World-Changing Company
+
+
+
+ At Palantir, we’re passionate about building software that solves problems. We partner with the most important institutions in the world to transform how they use data and technology. Our software has been used to stop terrorist attacks, discover new medicines, gain an edge in global financial markets, and more. If these types of projects excite you, we'd love for you to join us.
+
+
+
+ The Role
+
+
+
+ Software Engineers at Palantir build software at scale to transform how organizations around the world use data. As a Software Engineer, you'll contribute high-quality code to Palantir Gotham or Palantir Foundry: products that are deployed to the most important institutions in the public and private sector. You'll build features used by research scientists, aerospace engineers, intelligence analysts, and economic forecasters, in countries around the world.
+
+
+
+ Palantir's Product Development organization is made up of small teams of Software Engineers. Each team focuses on a specific aspect of a product: for example, you might be part of a team that builds a Foundry front-end application, or a component of the Gotham release infrastructure. We encourage movement among teams to share context, skills, and experience, so you'll learn about many different aspects of each product.
+
+
+
+ Software Engineers are involved throughout the product lifecycle, from idea generation, design, and prototyping to execution, and shipping. As a Software Engineer, you'll collaborate closely with technical and non-technical counterparts to understand our customers' problems and build products that solve them. We think the best way to understand what our users need is to meet them, so occasionally, you'll tour the assembly line at an auto manufacturer or join a counter-terror analyst at their desk to really understand their mission and their pain points.
+
+
+
+ It doesn’t matter what languages you know when you join us, but it does matter that you can write clean, effective code and learn new languages quickly. Our software is constantly evolving, so we need engineers who can do the same. Alongside peers who bring diverse experience — startup founders, industry veterans, university TAs, and more — you'll build your skillset to apply the best technology to solve a given problem. Right now, we use:
+
+
+
+ A variety of languages, including Java and Go for back end and Typescript for front end
+Open-source technologies like Cassandra, Spark, ElasticSearch, React, and Redux
+Industry-standard build tooling, including Gradle, Webpack, and Github
+
+
+
+ Whether you aspire to be an entrepreneur or an engineering leader, we believe Palantir is the best place — with the best colleagues — to learn how. You’ll learn how to unpack a problem and understand the costs and consequences of its solution. You’ll learn new technologies and languages, and even develop them yourself. You’ll work autonomously and make decisions independently, within a community that will support and challenge you as you grow and develop.
+
+ What We Value
+
+ Strong engineering background in fields such as Computer Science, Mathematics, Software Engineering, and Physics.
+ Familiarity with data structures, storage systems, cloud infrastructure, front-end frameworks, and other technical tools.
+ Strong coder with demonstrated proficiency in programming languages, such as Java, C++, Python, JavaScript, or similar languages.
+ Demonstrated ability to collaborate and empathize with a variety of individuals. You can iterate with users and non-technical stakeholders and understand how your technical decisions impact them.
+ Demonstrated ability to learn and work independently and make decisions with minimal supervision.
+ A desire to work on software that can change the world and a passion for creating intuitive, scalable products that augment our users' ability to work with data.
+ Active US Security clearance, or eligibility and willingness to obtain a US Security clearance is beneficial but not necessary.
+
+
+   Palantir is committed to promoting a culture of diversity, equity, and inclusion and is proud to be an Equal Employment Opportunity and Affirmative Action employer. We believe that all Palantirians share the responsibility of upholding our commitment to these values and encourage candidates from a wide range of backgrounds, perspectives, and lived experiences to join us in solving the world's hardest problems. Palantir does not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. Palantir is committed to working with and providing reasonable accommodations to applicants with physical and mental disabilities. Please see the United States Department of Labor's EEO poster and EEO poster supplement for additional information.
+
+
+
+ Palantir is committed to making the job application process accessible to everyone. If you are living with a disability (visible or not visible) and need to request a reasonable accommodation for any part of the application or hiring process, please reach out and let us know how we can help.
+
+
+
+ _________________________________New Job______________________________
+
+
+The recruitment team at Myticas Consulting is looking for an experienced Embedded Systems Developer who would be interested in a full-time permanent opportunity offered within the Seattle, WA region.
+ Required Knowledge and Skills:
+
+4 years experience with embedded system development
+High level scripting skills: Bash/Python/Perl/etc
+Deep understanding of IP networking
+Deep understanding of firewalls, NAT and packet filtering
+Deep understanding of modern embedded Linux systems
+Deep understanding of embedded system security issues
+Professional experience working in a Linux development environment
+Experience with github
+
+Desirable Knowledge and Skills:
+
+Experience with aircraft software
+Experience working in a certified software environment
+Experience working on satellite terminals or cellular modems
+University degree level or equivalent experience in Computer Science, Telecommunications, or related technical discipline
+Organizational and communication skills
+
+
+
+ _________________________________New Job______________________________
+
+
+
+
+
+Summary
+
+
+      Posted: Apr 15, 2022
+
+
+      Weekly Hours:
+      40
+
+
+      Role Number:
+      200368267
+
+
+
+     The Apple Media Products Engineering team is one of the most exciting examples of Apple’s long-held passion for combining art and technology. These are the people who power the App Store, Apple TV, Apple Music, Apple Podcasts, and Apple Books. And they do it on a massive scale, meeting Apple’s high expectations with high performance to deliver a huge variety of entertainment in over 35 languages to more than 150 countries. These engineers build secure, end-to-end solutions. They develop the custom software used to process all the creative work, the tools that providers use to deliver that media, all the server-side systems, and the APIs for many Apple services. Thanks to Apple’s unique integration of hardware, software, and services, engineers here partner to get behind a single unified vision. That vision always includes a deep commitment to strengthening Apple’s privacy policy, one of Apple’s core values. Although services are a bigger part of Apple’s business than ever before, these teams remain small, nimble, and cross-functional, offering greater exposure to the array of opportunities here.
+
+
+
+
+
+
+
+
+
+Key Qualifications
+
+
+
+
+3+ years experience testing Client/Server and Web Based applications
+Proficient with with Web UI Automation tools such as TestCafe, Selenium, XCTest
+Experience with Python driven test development
+Highly organized, creative, and passionate about achieving results
+Experience developing detailed test plans, assessing risks, filing detailed defect reports, and providing relevant data for test reporting
+Knowledgeable and curious about how software applications function beneath the user interface
+Able to apply creativity and analytical thinking to all kinds of problems, such test case creation and execution
+Strong organizational skills enabling both independent and team work
+
+
+
+
+
+
+
+
+
+
+Description
+
+
+
+       The App Store Connect QA team is looking for an experienced Software UI QA Engineer to support new features to App Store Connect, the web based App Management portal for Apple’s App Developer community. In this role you will work side-by-side with developers and peers to author and complete manual tests and expand our automated test suite. You will be responsible for crafting, implementing, and executing test plans and test suites based on software specification and design documents. You will help ensure the successful delivery of a quality product by performing ad-hoc and structured tests.
+
+
+
+
+
+
+
+
+
+Education & Experience
+
+
+
+       Bachelors degree or 3 years equivalent experience testing software
+
+
+
+
+
+
+
+
+
+Additional Requirements
+
+
+
+
+Proficiency with API test tools (PAW, JMeter, Postman) a plus
+
+
+
+
+
+
+
+
+
+ _________________________________New Job______________________________
+
+
+Software Engineer 2
+ What will your next job look like? Will it provide hands-on and technical training designed just for you—the eager self-starter? Will you have the perfect balance of being part of an established company, with a start-up, entrepreneurism like no other in the industry?
+ If this is the job you dreamed of…then a Software Engineering role at Dell might be perfect for you. In this role, you will be a resident problem-solver, providing front-line support for Dell’s Unstructured Data Storage Engineering group.
+ Dell Technologies Product Group
+ Digital transformation starts with the data. Customers are prioritizing AI, IoT, and analytics initiatives that depend on massive amounts of unstructured data. In fact, IDC predicts that worldwide data will grow to 175 zettabytes of data by 2025, and unstructured data will account for 80% of this data. Storing, managing, and extracting value from this sea of data is creating new challenges and customers are increasingly turning to Dell for solutions.
+ Dell is the undisputed industry leader for unstructured data storage. Tens of thousands of customers have bet their business on products including PowerScale Scale-Out File Storage and ECS Object Storage. Moreover, Gartner has consistently recognized Dell as the clear Magic Quadrant leader for Distributed File and Object Storage.
+ Summary:
+ As Software Engineer in the NAS engineering group, you will have the opportunity to use your expertise to work on innovative and cutting edge technologies. You will partner with our highly skilled technical advisors, who provide solutions to our customer’s most complex issues. You will constantly be challenged in developing and improving new and current technologies with the support of your team behind you.
+ You will be responsible for the software design and development for external customer products. You will utilize a range of applicable technologies (e.g. programming languages, compilers, assemblers, debuggers, other tools) for products used in local, networked, storage enhancements and/or new systems. You will modify existing software products to add new functions, adapt to new hardware, improve performance or enhance product usability. You will participate in product development in all stages from planning and design to development, testing and documentation. You will assist with the implementation of new or additional storage technology to improve infrastructure service, both locally and remotely.
+ Role Responsibilities
+
+Participates in the preparation, design review and analysis of software/storage requirements and specifications
+ Prepares written specifications from verbal requirements for tasks of mid-level complexity
+ Prepares design, functional, technical and/or user documentation, as needed
+ Uses defined software lifecycle methodologies
+ Reviews and implements test strategies for software products
+ Follows source code and file revision control for projects
+ Clearly communicates project issues and status
+ Accurately logs project schedule, defect, and other data
+ Analyzes and prepares trend reports on quality metrics
+ Participates in improving product quality through process and procedure improvements Provides full design, planning, configuration, documentation, deployment and top-level support ownership of storage infrastructure technologies.
+
+ Requirements
+
+ Typically requires 0 to 2 years of related experience with a Bachelor’s degree; or an advanced degree without experience; or equivalent experience
+ Full use and application of standard principles, theories, concepts, and techniques based on an established body of knowledge
+ Good knowledge of programming languages like C and Python; operating systems; firmware; device drivers and databases.
+ Able to code/debug moderately complex programs using either written or verbal design specifications
+ Good understanding of hardware and software interactions
+ Knowledge of storage networking architectures and applications
+ Knowledge of storage/ network protocols and connectivity
+ Knowledge of network file systems, disk-based file systems and/or file virtualization technology
+ Knowledge of replication technologies and server migration strategies.
+
+ Preferences
+
+Good knowledge of programming languages; operating systems; firmware; BIOS; device drivers; databases; system, network, operating system, and application administration; embedded software/firmware; tools and utilities, as applicable
+ Able to code/debug moderately complex programs using either written or verbal design specifications
+ Good understanding of hardware and software interactions
+ Knowledge of storage networking architectures and applications
+ Knowledge of storage/ network protocols and connectivity
+ Knowledge of network file systems, disk-based file systems and/or file virtualization technology
+ Knowledge of replication technologies and server migration strategies.
+
+ Here’s our story; now tell us yours
+ Dell Technologies helps organizations and individuals build a brighter digital tomorrow. Our company is made up of more than 150,000 people, located in over 180 locations around the world. We’re proud to be a diverse and inclusive team and have an endless passion for our mission to drive human progress.  What’s most important to us is that you are respected, feel like you can be yourself and have the opportunity to do the best work of your life - while still having a life. We offer excellent benefits, bonus programs, flexible work arrangements, a variety of career development opportunities, employee resource groups, and much more.  We started with computers, but we didn’t stop there. We are helping customers move into the future with multi-cloud, AI and machine learning through the most innovative technology and services portfolio for the data era. Join us and become a part of what’s next in technology, starting today.  You can also learn more about us by reading our latest Diversity and Inclusion Report and our plan to make the world a better place by 2030 here.  Application closing date: DD Month YYYY  Dell is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Dell are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Dell will not tolerate discrimination or harassment based on any of these characteristics. Dell encourages applicants of all ages. Read the full Equal Employment Opportunity Policy here.
+
+
+ _________________________________New Job______________________________
+
+
+
+7+ years of experience working directly within engineering teams
+ Experience partnering with product OR program management teams
+ 3+ years of people management experience, managing engineers
+ 3+ years of experience architecting and designing (architecture, design patterns, reliability and scaling) of new and current systems
+
+
+ 1+ year of experience with computer vision systems
+ Experience with hardware/software integration on embedded platforms
+ Experience with image processing and/or machine learning
+ Proficiency in C++ or Python
+ Experience communicating with end users, technical & business teams and management to collect requirements, describe product features, and technical designs
+ Bachelor’s Degree in Computer Science, Computer Engineering, or related field
+
+
+
+
+ Job summary
+  Here at Amazon, we embrace our differences. We are committed to furthering our culture of diversity and inclusion of our teams within the organization.
+
+ How do you get items to customers quickly, cost-effectively, and—most importantly—safely, in less than an hour? And how do you do it in a way that can scale? Our teams of hundreds of scientists, engineers, aerospace professionals, and futurists have been working hard to do just that! We recently announced we are preparing for Prime Air deliveries to customers, and are excited for what’s to come. Check out more information about Prime Air on the About Amazon blog (https://www.aboutamazon.com/news/transportation/amazon-prime-air-prepares-for-drone-deliveries).
+
+ If you are seeking an iterative environment where you can drive innovation, apply state-of-the-art technologies to solve real world delivery challenges, and provide benefits to customers, Prime Air is the place for you.
+
+ Come work on the Amazon Prime Air Team!
+
+ Prime Air is seeking an experienced Software Engineering Manager who combines superb technical, research, and analytical capabilities with a demonstrated ability to get the right things done quickly and effectively.
+
+ This person will manage a team responsible for building and maintaining the developer experience for all drone software. This includes everything from the inner development loop to the release process.
+
+ You will work hard, have fun, and of course, make history!
+
+ Key job responsibilities
+
+
+ Directly manage a team of 3-6 embedded engineers and software engineers to design and develop on-target platform code for the CV system
+ Influence and drive operational excellence best practices
+ Lead the team to optimize performance of embedded artificial intelligence algorithms
+ Leverage large datasets and build next-generation training workflows using latest machine learning frameworks to solve the most challenging problems in autonomous aviation
+ Innovate and build exciting new technologies at the intersection of safety critical systems and vision computing
+ Lead DAL certification efforts related to DO-178C processes
+ Integrate frameworks into software and hardware-in-the-loop simulators
+
+ Export Control License
+  This position may require a deemed export control license for compliance with applicable laws and regulations. Placement is contingent on Amazon’s ability to apply for and obtain an export control license on your behalf.
+
+
+
+
+Familiarity with software development in aerospace, DO-178C, or equivalently regulated development environment
+ Experience building complex software systems that have been successfully delivered to customers at scale
+ Knowledge of software engineering practices & patterns for the full software/hardware development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations
+ Ability to take a project from scoping requirements through actual launch and SLA-driven operations of the project
+
+ Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+
+
+ _________________________________New Job______________________________
+
+
+Software Controls Engineer
+ Missouri City, TX (Relocation Required)
+Do you enjoy developing and sustaining innovative technologies? Are you self-motivated with strong technical abilities and troubleshooting skills? We are looking for a strong leader who can bring software engineering expertise and experience to our organization. If this sounds like you, then check out our new opening for a Software Controls Engineer below.
+ What we do:
+TEAL was established in 2004 in Houston, Texas, to provide Owners, Developers, Investors, and Property Managers with innovative and sustainable central plant solutions for chilled and hot water. Our solutions save money while providing dependable service with essentially zero downtime in an environmentally friendly fashion.
+ At Teal, we believe our culture and vision form an ecosystem that guides what we do as a Team. The foundation of our identity is found in our Vision, our Team's cohesive purpose, characteristics, and values. Our values are Be Great, Think Forward, Lift Up, Improve Today, Do Right, and Bring Passion. If this sounds like you, join us, and help us rethink the future and continue the journey of innovation in mechanical equipment, together!
+ What you'll do:
+Software Controls Engineer will work with the Teal software development team to develop and sustain technologies for HVAC commercial products. These products include, but are not limited to, air handlers, coils, chillers, heat pumps, boilers and heat pumps. The responsibilities of this position include the design, analysis, testing and documentation of control PCBs, designed to include Wi-Fi, ethernet, Modbus, BACnet, etc., that are developed in house or through partnerships with third party companies. The Software Controls Engineer will work with other developers onshore and offshore to produce prototypes straight through to production.
+
+ Work with development team in designing methods/functions in Python
+ Design/simulate analog / digital circuitry
+ Document activities (design and testing specs, schematics, layouts, etc.)
+ Troubleshoot circuit designs, board designs, and fabrication / field failures
+ Research and development of new concepts via prototype designs
+ Document product designs by preparing bills of materials, cost analyses, drawings, and engineering change requests
+ Participate on cross functional teams to launch products, resolve issues, and support product improvements
+ Work with suppliers to improve quality and resolve product issues
+ Assist Manufacturing with product launches and issue resolution
+ Drive continuous improvement projects related to product design and quality
+ Perform all other duties as assigned
+
+ Innovation is in our core - even in employee benefits. We offer the below:
+
+PTO Allotment of 120 hours / 3 weeks after 90 days of employment
+ Competitive Compensation
+ Holistic Health Coverage (medical, dental, vision, life insurance, company paid short/long term disability, AD&D)
+ Health and Flexible Savings Accounts (FSA/HSA) with Company contributions
+ Legal and Pet Insurances Available
+ 401k Plan including Company Match
+ 10 Paid Holidays and Birthdays off
+ Memberships to professional organizations are paid for by the Company
+ Casual Dress Code
+ $500 cash for first time home buyers!
+ Teambuilding - Have fun with the team at sporting events, lunches, and other group festivities
+ Excellent growth and advancement opportunities
+ Cell phone allowance
+
+ Qualifications
+
+ Bachelor's degree in Electrical Engineering or Computer Science
+ 5+ years' experience with analog / digital electronic PCB design
+ Experience with ADC/DAC controls
+ Knowledge of python, HTML, JavaScript and Linux like environments
+ Knowledge of .net and visual studio (preferred but not required)
+ Knowledge of databases such as SQLite, MySQL, mongo dB
+ Knowledge of consuming and calling REST APIs
+ Knowledge of refrigeration and/or air conditioning design and application (preferred but not required)
+ Software skills including Microsoft Office Word, Excel, and PowerPoint, SharePoint
+ Effective communication skills - both oral and written
+ Strong interpersonal skills
+
+ Interested?
+
+ Our team is always eager to meet new talent with big ideas. If this sounds like you, apply today!
+
+
+
+ _________________________________New Job______________________________
+
+
+
+ACCENTURE's Flexible Workforce solves clients’ toughest challenges by providing cross-industry expertise, unmatched innovation, World-class tech and talent. We help bring it all together to deliver tangible business outcomes for our clients with contractors and our extended workforce opportunities. Accenture is consistently recognized on FORTUNE’s 100 Best Companies to Work for and Diversity Inc’s Top 50 Companies for Diversity lists. And that's just the beginning. Now is the perfect time for you to consider opportunities through our Flexible Workforce.
+
+
+
+
+
+ What's In It For You
+:
+
+
+
+ Collaborate with a diverse network of people
+ Actively deliver innovative solutions for Accenture's clients
+ Apply your skills and experience to help drive business transformation
+ Work locally or remotely, significantly reducing or eliminating the demands to travel
+
+ Project Description
+:
+
+
+
+ Python - Software Engineer who combines superb technical, research and analytical capabilities with a demonstrated ability to get the right things done quickly and effectively.
+
+
+
+ Responsibilities
+:
+
+
+
+
+ Must be comfortable working with a team of top-notch developers and collaborating with our research teams
+ This position may require a deemed export control license for compliance with applicable laws and regulations.
+ Placement is contingent on Amazon's ability to apply for and obtain an export control license on your behalf.
+
+
+
+
+ Basic Qualifications
+:
+
+
+
+ Amazon Web Services (AWS)
+ C# Programming Language
+ C++ Programming Language
+ Java
+
+
+
+
+
+ What We Believe
+ We have an unwavering commitment to diversity with the aim that every one of our people has a full sense of belonging within our organization. As a business imperative, every person at Accenture has the responsibility to create and sustain an inclusive environment.
+ Inclusion and diversity are fundamental to our culture and core values. Our rich diversity makes us more innovative and more creative, which helps us better serve our clients and our communities. Read more here
+ Equal Employment Opportunity Statement   Accenture is an Equal Opportunity Employer. We believe that no one should be discriminated against because of their differences, such as age, disability, ethnicity, gender, gender identity and expression, religion or sexual orientation. Our rich diversity makes us more innovative, more competitive and more creative, which helps us better serve our clients and our communities.   All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law.   Accenture is committed to providing veteran employment opportunities to our service men and women.   For details, view a copy of the Accenture Equal Opportunity and Affirmative Action Policy Statement
+
+Please be aware that Accenture requires all contractors to be fully vaccinated as a condition of placement, abiding by applicable federal, state & local laws. Requests for medical or religious accommodation to this vaccination requirement will be reviewed if an offer is extended by the supplier.
+
+ Requesting An Accommodation for this specific opportunity
+ Accenture is committed to providing equal employment opportunities for persons with disabilities or religious observances, including reasonable accommodation when needed. If you are going to be placed on an Accenture project and require accommodation to perform the essential functions of the opportunity, you will be asked to participate in our reasonable accommodation process as it relates to the initial interview process and for ongoing support, you will need to consult your supplier as their reasonable accommodation process if an offer is extended. Accommodations made to facilitate the recruiting process are not a guarantee of future or continued accommodations once hired.   If you have accommodation needs for a disability or religious observance, please call us toll free at 1 (877) 889-9009, send us an email or speak with your recruiter.   Other Employment Statements   Applicants for placement consideration in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States.
+Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration.   Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process.   The Company will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. Additionally, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the Company's legal duty to furnish information.
+
+
+
+
+ _________________________________New Job______________________________
+
+
+Bachelor’s degree in Electrical Engineering or Computer Engineering
+4+ years of experience in system level validation or related field
+Experience with digital systems and communications protocols such as I2C, UART, SPI, USB, GPIO, SGMII, Ethernet, CAN-FD, PCIe, etc.
+Experience debugging HW and SW issues at PCB, assembly and system level.
+ Job summary
+Project Kuiper is an initiative to launch a constellation of Low Earth Orbit satellites that will provide low-latency, high-speed broadband network connectivity to unserved and underserved communities around the world.
+
+ We are looking for a Test Engineer to design, develop, implement, document and deliver test systems. Gather and analyze results for robust, scalable, supportable solutions that work well within the overall system architecture.
+
+
+Export Control Requirement:
+ Due to applicable export control laws and regulations, candidates must be a U.S. citizen or national, U.S. permanent resident (i.e., current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum.
+
+ Key job responsibilities
+
+
+Enable and maintain production testing, working with CMs to verify stable high-quality execution
+Build, debug and maintain test hardware and software used for NPI
+Analyzing failures and identifying root cause
+Ability to travel domestically up to 25% of the time
+ About the team
+
+
+
+Strong written and verbal communications skills
+Strong problem solving and analysis skills
+A team player, with the ability to work in a rapidly evolving environment
+Self driven and motivated individual
+Experience with Python, BASH or other scripting language
+Experience with Linux environments
+Experience in developing automation scripts for testing, regression and
+Experience in automating data pipelines through programming
+Experience with interfacing with CM operations
+ Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+
+ _________________________________New Job______________________________
+
+ Job Description
+At Boeing, we innovate and collaborate to make the world a better place. From the seabed to outer space, you can contribute to work that matters with a company where diversity, equity and inclusion are shared values. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us.
+Boeing is looking for a Associate Software Engineer based out of Seattle, Washington.
+
+ The ONS (Onboard Network Systems) team is looking for Software Engineers to develop application software. ONS software manages onboard networks, off-board communication, LRU (Line Replaceable Unit) data load, file storage, third party developed software, and a whole host of additional features that airline customers rely on.
+
+ Software Engineers will work in multi-disciplinary teams with Systems Engineers, Testers, business leaders, and airline customers to design and build new ONS platform features. The ONS platform software uses a number of technologies and the team is in need of Engineers with a wide variety of software engineering skills.
+
+
+Position Responsibilities:
+ Assists with the development, documentation and maintenance of architectures, requirements, algorithms, interfaces and designs for software systems.
+
+ Develops and maintains code and integrates software components into a fully functional software system.
+
+ Supports software project management and software supplier management functions.
+
+ Selects, tailors and deploys processes and tools; establishes metrics.
+
+ Performs software research and trade studies.
+
+ Interacts primarily with internal personnel and infrequently with inter-organizational and external customers on routine matters.
+
+ Troubleshoots software issues.
+
+ Works under general supervision.
+
+ This position must meet Export Control compliance requirements, therefore a “US Person” as defined by 22 C.F.R. § 120.15 is required. “US Person” includes US Citizen, lawful permanent resident, refugee, or asylee.
+
+ This position allows telecommuting. The selected candidate will be required to perform some work onsite at one of the listed location options.
+
+
+Basic Qualifications (Required Skills/Experience):
+ Bachelor's degree or greater from an accredited course of study in engineering, computer science, mathematics, physics, chemistry or related technical degree field.
+
+ 2+ years software development experience
+
+ Experience in C++ or Python or Java
+
+ Experience using git version control
+
+
+Preferred Qualifications (Desired Skills/Experience):
+ 2+ Years of professional development experience managing project source code in a Git repository.
+
+ 1+ Years of professional experience maintaining a software component build (e.g. make, cmake, autotools, etc.)
+
+ 1+ Years of professional experience analyzing and resolving code bugs.
+
+ Networking Experience for debugging issues
+
+ Knowledge of Client/Server architecture
+
+
+Typical Education/Experience:
+ Education/experience typically acquired through advanced technical education from an accredited course of study in engineering, computer science, mathematics, physics or chemistry (e.g. Bachelor) and typically 2 or more years' related work experience or an equivalent combination of technical education and experience (e.g. Master). In the USA, ABET accreditation is the preferred, although not required, accreditation standard.
+
+
+Relocation:
+ This position offers relocation based on candidate eligibility.
+
+
+Shift Work Statement:
+ This position is for 1st shift
+
+
+Union:
+ This is a union represented position
+
+
+Drug Free Workplace:
+ Boeing is a Drug Free Workplace where post offer applicants and employees are subject to testing for marijuana, cocaine, opioids, amphetamines, PCP, and alcohol when criteria is met as outlined in our policies .
+
+
+Equal Opportunity Employer:
+ Boeing is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law.
+
+ _________________________________New Job______________________________
+
+
+About the role:
+
+   Collaborates with stakeholders within the team to build and maintain backend services and solutions to support user-facing products, downstream services, or infrastructure tools and platforms used across Uber.
+
+
+ About the Team:
+
+   As a Software Engineer at Uber, you will architect highly-performant, reliable, applications used by millions of external customers every day. You will have a unique opportunity to work closely and partner with a growing Uber for Business team, to build world class Help Center and Support experiences for their product. Uber for Business has customers 25+ countries and 50% of those are Fortune 500. As part of this team, systems you build will be directly impacting these customers and their support experience. At Uber, we have a high bar for quality & efficiency - you will collaborate closely with your Tech Lead, Product Managers and Business Operations teams to build for scale, yet solution focussed on providing delightful customer experiences. The team is focussed on high business impact, where every product we ship is measured and tracked with cost savings and/or efficiency improvement. We are just getting started, come and join us for an exciting ride!
+
+ Minimum qualifications:
+
+ Bachelor’s degree or equivalent in Computer Science, Engineering, Mathematics or related field OR 1-year full-time Software Engineering work experience, WHICH INCLUDES 1-year total technical software engineering experience in one or more of the following areas:
+
+
+
+ Programming language (e.g. C, C++, Java, Python, or Go)
+
+
+
+ Note the 1-year total of specialized software engineering experience may have been gained through education and full-time work experience, additional training, coursework, research, or similar (OR some combination of these). The year of specialized experience is not necessarily in addition to the years of Education & full-time work experience indicated.
+
+ Technical skills:
+
+   Preferred:
+
+
+
+ Scalability engineering
+ Distributed systems
+ Experience coding with GO and Python
+ Bonus - front end experience (React, JS)
+ Strong collaboration skills and passion for learning new technologies
+ Experience with relational databases and distributed storage systems (MySQL, Cassandra, Elasticsearch, Redis)
+
+
+ At Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 600 cities around the world!
+ We welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have a curiosity, passion and collaborative spirit, work with us, and let’s move the world forward, together!
+ Uber is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
+ If you have a disability or special need that requires accommodation, please let us know by completing this form.
+
+
+
+ _________________________________New Job______________________________
+
+
+
+A World-Changing Company
+
+
+
+ At Palantir, we’re passionate about building software that solves problems. We partner with the most important institutions in the world to transform how they use data and technology. Our software has been used to stop terrorist attacks, discover new medicines, gain an edge in global financial markets, and more. If these types of projects excite you, we'd love for you to join us.
+
+
+
+ The Role
+
+
+
+ Software Engineers at Palantir build software at scale to transform how organizations around the world use data. As a Software Engineer, you'll contribute high-quality code to Palantir Gotham or Palantir Foundry: products that are deployed to the most important institutions in the public and private sector. You'll build features used by research scientists, aerospace engineers, intelligence analysts, and economic forecasters, in countries around the world.
+
+
+
+ Palantir's Product Development organization is made up of small teams of Software Engineers. Each team focuses on a specific aspect of a product: for example, you might be part of a team that builds a Foundry front-end application, or a component of the Gotham release infrastructure. We encourage movement among teams to share context, skills, and experience, so you'll learn about many different aspects of each product.
+
+
+
+ Software Engineers are involved throughout the product lifecycle, from idea generation, design, and prototyping to execution, and shipping. As a Software Engineer, you'll collaborate closely with technical and non-technical counterparts to understand our customers' problems and build products that solve them. We think the best way to understand what our users need is to meet them, so occasionally, you'll tour the assembly line at an auto manufacturer or join a counter-terror analyst at their desk to really understand their mission and their pain points.
+
+
+
+ It doesn’t matter what languages you know when you join us, but it does matter that you can write clean, effective code and learn new languages quickly. Our software is constantly evolving, so we need engineers who can do the same. Alongside peers who bring diverse experience — startup founders, industry veterans, university TAs, and more — you'll build your skillset to apply the best technology to solve a given problem. Right now, we use:
+
+
+
+ A variety of languages, including Java and Go for back end and Typescript for front end
+Open-source technologies like Cassandra, Spark, ElasticSearch, React, and Redux
+Industry-standard build tooling, including Gradle, Webpack, and Github
+
+
+
+ Whether you aspire to be an entrepreneur or an engineering leader, we believe Palantir is the best place — with the best colleagues — to learn how. You’ll learn how to unpack a problem and understand the costs and consequences of its solution. You’ll learn new technologies and languages, and even develop them yourself. You’ll work autonomously and make decisions independently, within a community that will support and challenge you as you grow and develop.
+
+ What We Value
+
+ Strong engineering background in fields such as Computer Science, Mathematics, Software Engineering, and Physics.
+ Familiarity with data structures, storage systems, cloud infrastructure, front-end frameworks, and other technical tools.
+ Strong coder with demonstrated proficiency in programming languages, such as Java, C++, Python, JavaScript, or similar languages.
+ Demonstrated ability to collaborate and empathize with a variety of individuals. You can iterate with users and non-technical stakeholders and understand how your technical decisions impact them.
+ Demonstrated ability to learn and work independently and make decisions with minimal supervision.
+ A desire to work on software that can change the world and a passion for creating intuitive, scalable products that augment our users' ability to work with data.
+ Active US Security clearance, or eligibility and willingness to obtain a US Security clearance is beneficial but not necessary.
+
+
+   Palantir is committed to promoting a culture of diversity, equity, and inclusion and is proud to be an Equal Employment Opportunity and Affirmative Action employer. We believe that all Palantirians share the responsibility of upholding our commitment to these values and encourage candidates from a wide range of backgrounds, perspectives, and lived experiences to join us in solving the world's hardest problems. Palantir does not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. Palantir is committed to working with and providing reasonable accommodations to applicants with physical and mental disabilities. Please see the United States Department of Labor's EEO poster and EEO poster supplement for additional information.
+
+
+
+ Palantir is committed to making the job application process accessible to everyone. If you are living with a disability (visible or not visible) and need to request a reasonable accommodation for any part of the application or hiring process, please reach out and let us know how we can help.
+
+
+
+ _________________________________New Job______________________________
+
+
+
+
+
+Summary
+
+
+      Posted: Apr 15, 2022
+
+
+      Weekly Hours:
+      40
+
+
+      Role Number:
+      200368267
+
+
+
+     The Apple Media Products Engineering team is one of the most exciting examples of Apple’s long-held passion for combining art and technology. These are the people who power the App Store, Apple TV, Apple Music, Apple Podcasts, and Apple Books. And they do it on a massive scale, meeting Apple’s high expectations with high performance to deliver a huge variety of entertainment in over 35 languages to more than 150 countries. These engineers build secure, end-to-end solutions. They develop the custom software used to process all the creative work, the tools that providers use to deliver that media, all the server-side systems, and the APIs for many Apple services. Thanks to Apple’s unique integration of hardware, software, and services, engineers here partner to get behind a single unified vision. That vision always includes a deep commitment to strengthening Apple’s privacy policy, one of Apple’s core values. Although services are a bigger part of Apple’s business than ever before, these teams remain small, nimble, and cross-functional, offering greater exposure to the array of opportunities here.
+
+
+
+
+
+
+
+
+
+Key Qualifications
+
+
+
+
+3+ years experience testing Client/Server and Web Based applications
+Proficient with with Web UI Automation tools such as TestCafe, Selenium, XCTest
+Experience with Python driven test development
+Highly organized, creative, and passionate about achieving results
+Experience developing detailed test plans, assessing risks, filing detailed defect reports, and providing relevant data for test reporting
+Knowledgeable and curious about how software applications function beneath the user interface
+Able to apply creativity and analytical thinking to all kinds of problems, such test case creation and execution
+Strong organizational skills enabling both independent and team work
+
+
+
+
+
+
+
+
+
+
+Description
+
+
+
+       The App Store Connect QA team is looking for an experienced Software UI QA Engineer to support new features to App Store Connect, the web based App Management portal for Apple’s App Developer community. In this role you will work side-by-side with developers and peers to author and complete manual tests and expand our automated test suite. You will be responsible for crafting, implementing, and executing test plans and test suites based on software specification and design documents. You will help ensure the successful delivery of a quality product by performing ad-hoc and structured tests.
+
+
+
+
+
+
+
+
+
+Education & Experience
+
+
+
+       Bachelors degree or 3 years equivalent experience testing software
+
+
+
+
+
+
+
+
+
+Additional Requirements
+
+
+
+
+Proficiency with API test tools (PAW, JMeter, Postman) a plus
+
+
+
+
+
+
+
+
+
+ _________________________________New Job______________________________
+
+ Senior Software Engineer - Data Platform - Kent, WA
+6-month contract Pay $122.00 $153.00/hr BOE.
+US Citizen/Person or Permeant Resident
+Sorry, No C2C or third party resumes.
+Job Description:
+Our client is a diverse team of collaborators, doers, and problem-solvers who are relentlessly committed to a culture of safety. This position will directly impact the history of space exploration and will require your commitment and detailed attention towards safe and repeatable space flight. Join our client in lowering the cost of access to space and enabling our client’s vision of millions of people living and working in space to benefit Earth.
+Data is the lifeblood of an organization and integration services is the arterial system responsible to sustain and nourish the enterprise. We are a team of enablers building the arterial systems of the company that is building the road to space to benefit the earth.
+As an engineering leader with vision, your passion for Blue Origin's mission, future of space exploration and developer efficiency will drive our data platform to enable federated data development across Blue Origin. This position requires unrelenting customer experience, and operational excellence!Responsibilities:
+
+Design, develop and maintain metadata driven data pipeline automation framework(s) for batch, event and streaming data in cloud native environment
+Develop data modeling standards, governance, automation frameworks and developer tooling to standardize and accelerate data delivery across the organization.
+Design and implement data models for APIs/Events/Batch based system and data integration
+Rapid prototyping and presenting proof of concepts for key technology decision to collaborators and other technology leaders.
+Build end to end data pipelines from source to target ensuring data quality, consistency and observability using DataOps principles
+Coach and mentor fellow and junior engineers
+
+Basic Qualifications:
+
+Bachelor’s degree in Computer Science or equivalent
+5+ year software development delivery accountability
+3+ years of hand on experience in metadata management, metadata driven automation and developer efficiency tooling
+3+ years of cloud native data solutions enabling Analytics, Operational, Data Science and ML use cases
+3+ year of large scale event-driven and streaming solutions in cloud native environment
+5+ years with advanced SQL and scripting (python/bash etc.) development
+Excellent verbal and written communications skills
+Must be a U.S. citizen or national, U.S. permanent resident (current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum.
+
+Preferred Qualifications
+
+Master's degree or higher in Computer Science, Mathematics, Statistics, or similar analytical field.
+Manufacturing and/or Aerospace experience
+Experience working/collaborating with Master Data Management, Metadata Management and Data Governance
+
+Engineer - Data Sr 002832
+Job Type: Contract
+Pay: $122.00 - $153.00 per hour
+Benefits:
+
+401(k)
+Health insurance
+
+Schedule:
+
+8 hour shift
+
+COVID-19 considerations:COVID-19 precautions are in place
+Application Question(s):
+
+Describe your day to day activities
+Describe the most complex integration you build. How did you measure the success of your integration?
+
+Experience:
+
+software development delivery accountability: 4 years (Required)
+cloud native data solutions enabling Analytics: 3 years (Required)
+large scale event-driven and streaming solutions: 3 years (Required)
+advanced SQL and scripting (python/bash etc.) development: 5 years (Required)
+Manufacturing and/or Aerospace: 1 year (Preferred)
+working/collaborating with Master Data Management: 1 year (Preferred)
+
+Work Location: One location
+
+ _________________________________New Job______________________________
+
+
+ Cloud Engineer
+
+  If you are a Cloud Engineer with experience, please read on!
+
+ Top Reasons to Work with Us
+
+   Fast growing SaaS company is looking for an experienced Cloud Engineer. Client has over 200 employees and over $40M in funding. Has won numerous awards and recognition for their software.
+
+ What You Will Be Doing
+
+Part of product team (cloud governance) installing, configuring, automating and monitoring Cloud services (IaaS, PaaS and SaaS)
+Be a subject matter expert in cloud experience, assist global enterprise clients working with multiple cloud platforms
+Ensure internal and customer hosts and services thru monitoring, analyzing metrics and investigating alerts
+Explore and implement broad open source technologies. Help team to resolve technical issues.
+Customer focused, available on-call for solving critical problems
+Help process improvement in product deployments, cloud governance and customer success
+
+ What You Need for this Position
+
+Experience managing Azure/Cloud IaaS, PaaS services
+Experience with DevOps technologies, automation, infrastructure orchestration configuration and CI/CD
+Experience in Linux and Windows Administration, server hardening
+Web and Application Server technologies like Apache, Nginix, IIS
+Experience with at least one scripting language like Bash, PowerShell, Ruby or Python
+Network protocols like HTTP, DNS and TCP/IP
+Experience managing control platforms like Git or SVN (or others)
+
+ What's In It for You
+
+Vacation/PTO
+Medical
+Dental
+Vision
+Bonus
+401k
+Equity
+
+ Benefits
+
+Vacation/PTO
+Medical
+Dental
+Vision
+Bonus
+401k
+Equity
+
+
+   So, if you are a Cloud Engineer with experience, please apply today!
+
+
+   Colorado employees will receive paid sick leave. For additional information about available benefits, please contact Abel Echemendia
+
+
+Applicants must be authorized to work in the U.S.
+
+CyberCoders, Inc is proud to be an Equal Opportunity Employer
+
+ All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+
+Your Right to Work – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.
+
+
+ _________________________________New Job______________________________
+
+
+ Senior Software Engineer (Python)! 100% REMOTE!
+
+  We are on a mission to empower teams across the world to deliver cloud-based search applications and experiences faster and with more confidence! Our market is growing fast and we are profitable with no outside INVESTMENT! Companies like Toyota, Stanley Black & Decker and Carnival, count on us! We are responsible for designing, architecting, developing, testing, and scaling our PaaS/SaaS products that serve hundreds of customers across the globe. We have an ambitious roadmap and are looking for an experienced Senior Software Engineer to join our product development team.
+
+ Our tech stack: Python, Django, AWS (RDS, S3), Terraform, Ansible, MongoDB, Redis, Apache Solr & Elasticsearch. We follow modified Agile Scrum with 2-week sprints, daily standups and are a fully remote team across the globe (US, Europe, India).
+
+ What's In It for You
+
+Competitive salaries
+Medical, dental, and vision coverage for you and your family, along with other wellness and disability plans
+10 paid holidays; competitive and flexible paid time off policy
+401(k) with company match to all employees
+An opportunity to be more than just an engineer and help shape our technical destiny!
+
+ What You Need for this Position
+
+6+ years of professional software engineering experience, including SaaS application development
+Python in a production environment
+Ansible
+Terraform
+Understanding what it means to craft software that is a part of a larger microservice architecture
+Familiar with at least one auth and identity protocol such as OAuth 2.0, OIDC, or SAML
+Expertise in developing and working with thoughtfully designed REST APIs and SDKs
+Familiarity with major cloud platforms such as Amazon Web Services, Google Cloud, or Microsoft Azure
+Strong understanding of data modeling and storage with NoSQL and RDBMS
+A BS Computer Science or Electrical Engineering or equivalent
+Django (Plus)
+Elasticsearch or Apache Solr (Plus)
+
+ What You Will Be Doing
+
+Architecting and developing web, software, and mobile apps
+Coming up with feasible and practical solutions to tough problems
+Write very high-quality code that is robust and easy to maintain with tests
+Drive tasks to completion and take ownership of projects
+Work and succeed in a fast-paced and agile development environment
+Identify and drive improvements to our software and development processes
+Conduct peer design/code reviews
+Work with distributed teams across different time zones
+Technical subject matter expert, who mentors fellow engineers, demonstrates technical experience and leads teams in solving challenging problems
+Provide fanatical production support for your features and applications
+
+
+   So, if you have the experience above, please apply today or email me directly at Hanna.Hailee@cybercoders.com!
+
+
+   Colorado employees will receive paid sick leave. For additional information about available benefits, please contact Hanna Haile
+
+
+Applicants must be authorized to work in the U.S.
+
+CyberCoders, Inc is proud to be an Equal Opportunity Employer
+
+ All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+
+Your Right to Work – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.
+
+
+ _________________________________New Job______________________________
+
+ Equivalent Experience
+
+
+Description:
+
+
+Specify, design, develop, and test SW that commands and communicates with embedded devices, generally in C, Embedded Linux
+Need them to be pretty self-sufficient but also be comfortable working in a collaborative environment to seek out input, interface and requirement definition, etc.
+Probably 5-7+ years experience in general but can be flexible
+Prefer someone with familiarity/expertise with: C, Embedded Linux, Gitlab
+Develop and document software requirements and verification plans; develop software use-cases
+Support development of software architecture
+Design and develop and test flight software code and related test scripts
+Ensure that adequate test, inspection, and analysis reports verify compliance with the requirements
+Support major customer reviews of software integration & test efforts
+Resolve bugs found by yourself, other developers, test engineers, systems engineers, production, or operations
+
+Skills:
+ Software Development
+C
+Embedded
+Hardware
+Linux
+Embedded C
+Embedded Linux
+C++
+Avionics
+Satellites
+Python
+Electrical Engineer
+Computer engineer
+Gitlab
+
+
+Additional Skills & Qualifications:
+
+
+Must be a U.S. Person. Due to government regulation of the space industry, this requirement cannot be waived.
+Bachelor of Science or greater in Electrical or Computer Engineering, or a related field
+5+ years of experience delivering and maintaining commercial software in a production environment
+Expertise with Linux and C
+Familiarity with software version control management tools such as Git
+Passion for working closely with hardware
+
+Bonus Skills:
+
+
+Knowledge of Python and C++
+Experience in high reliability, safety critical, or regulated environments
+Knowledge of FPGA (e.g. VHDL)
+Experience with requirements management tools (e.g. JAMA, DOORs, etc.)
+Experience with software scheduling and tasking tools (e.g. Jira)
+Experience with integrating open source software with internal development
+Capability to use electrical measurement equipment i.e.: function generators, oscilloscopes
+
+About Actalent:
+ Actalent connects passion with purpose. Our scalable talent solutions and services capabilities drive value and results and provide the expertise to help our customers achieve more. Every day, our experts around the globe are making an impact. We’re supporting critical initiatives in engineering and sciences that advance how companies serve the world. Actalent promotes consultant care and engagement through experiences that enable continuous development. Our people are the difference. Actalent is an operating company of Allegis Group, the global leader in talent solutions.
+
+ The company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.
+
+ _________________________________New Job______________________________
+
+
+ Remote DevOps Engineer
+
+Title: DevOps Engineer
+
+Location: 100% Remote
+
+Salary: $140,000-165,000
+
+Requirements:
+ 1. Recent hands on experience with AWS
+   2. Experience with Terraform
+
+ We are a FAST growing healthcare SaaS startup located in Seattle, WA. Founded by serial entrepreneurs, we are disrupting the healthcare industry and are on a mission to change people's lives through AI technology. Due to our continued rapid growth, we are looking to hire an experienced and motivated DevOps Engineer to join our team immediately.
+
+ Recent AWS experience is a must! Terraform is also a must have.
+
+ In this role, you will make a real, positive difference in other people's lives through your work. We are extremely proud to be applying our efforts to improve health options for everyone.
+
+ This is a 100% remote, full time permanent position.
+  -Candidates with completed questionnaires will be reviewed first!-
+
+ What You Will Be Doing
+
+Design, develop, manage and deploy cloud infrastructure as code on AWS
+Own the cluster lifecycle for ECS and Kubernetes clusters EC2 instances, to the troubleshooting and maintenance of the containers/pods and their networking components
+Collaborate as an integrated member of a cross functional team, bringing your cloud expertise to the software and system design process
+Champion cloud native design patterns as an AWS subject matter expert, designing all implementations against the AWS Well Architected-Framework
+Design, build and maintain network connectivity and VPN solutions between us and our customers. We leverage site-to-site VPN solutions in AWS and you will become familiar with these technologies. Be a point of contact to troubleshoot networking issues with our customers
+Identify inefficiencies and improve processes with solutions that increase integration velocity
+Ability to manage and prioritize multiple tasks intelligently
+
+ What You Need for this Position
+
+ Must Haves:
+
+
+Hands on experiences with AWS, with strong level knowledge of the following services: Codebuild, EC2, ECS, IAM, S3, SQS, VPC
+Deep understanding and expertise in one or more of the following areas: Kubernetes, CI/CD, Networking, or Cloud Security
+Hands on experiences writing automation scripts, e.g. shell scripting, Python and NodeJS.
+Infrastructure automation using Terraform or similar infrastructure as code technologies
+Container and Container Management including Docker, Kubernetes, EKS, etc.
+Excellent verbal and written communication skills
+
+
+ Nice to Haves:
+
+
+Experiences working in production environments with high standard of compliance requirements, such as HIPAA and PCI-DSS
+Experiences with VPN solutions. Good knowledge of networking, Cisco VPN router configuration, nginx, TLS, HTTPS and network security protocols and other VPN and WAN technologies, such as Checkpoint software
+Working knowledge of Linux
+
+
+ What's In It for You
+
+Competitive Salary
+Medical, Dental, Vision Insurance
+Meaningful Equity
+
+ Benefits
+
+Vacation/PTO
+Medical
+Dental
+Vision
+
+
+   So, if you are a Remote DevOps Engineer with AWS and Terraform experience, please apply today!
+
+
+   Colorado employees will receive paid sick leave. For additional information about available benefits, please contact Rachel Reid
+
+
+Applicants must be authorized to work in the U.S.
+
+CyberCoders, Inc is proud to be an Equal Opportunity Employer
+
+ All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+
+Your Right to Work – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.
+
+
+ _________________________________New Job______________________________
+
+ Equivalent Experience
+
+
+Description:
+ To provide connectivity and internet access to 95% of the world, including underserved areas.
+
+The Team: In order to support these constellations at a low earth orbit, we need the software to support these satellites. His team is building out the network so the communication can happen, and using optical communication to do this. Each satellite will have optical terminals and they need to point to one another. They will establish the links, maintain those links as they orbit the earth and that’s the primary medium for connecting these satellites. Dee’s team is 6 software engineers, and broken into several subsystems. Need to be able to move information throughout the entire constellation.
+
+Description: The satellites are comprised of optics, controls, and electronics and this team does the software development to support all of this. Dee is currently building out embedded applications for how they control these applications. This role, the Software Engineer will look at what data, what sensors, and what diagnostics are necessary to capture performance of the terminals, and then the team will be implementing the control loops with software and FPGA.
+
+
+Skills:
+ C/C++
+Python
+Linux
+
+
+Additional Skills & Qualifications:
+ Development is primarily done in Rust, which is a newer language and the rest is done in C. Willing to train on Rust. Rust is a huge plus, but not required.
+A lot of telemetry that they capture from the terminals, downlinked from the ground. This is not necessarily embedded in nature, this could be data driven and automated to run rules, checks and monitors, build out visuals etc. Going to build out test systems and do a ton of testing.
+
+ Python, or automation – building testing frameworks to help them with AI&T campaign (sp), this would be a good compliment.
+
+
+About Actalent:
+ Actalent connects passion with purpose. Our scalable talent solutions and services capabilities drive value and results and provide the expertise to help our customers achieve more. Every day, our experts around the globe are making an impact. We’re supporting critical initiatives in engineering and sciences that advance how companies serve the world. Actalent promotes consultant care and engagement through experiences that enable continuous development. Our people are the difference. Actalent is an operating company of Allegis Group, the global leader in talent solutions.
+
+ The company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.
+
+ _________________________________New Job______________________________

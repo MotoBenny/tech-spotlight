@@ -1,3 +1,6 @@
 {
-  "python.linting.enabled": true
+  "python.linting.enabled": true,
+  "python.analysis.extraPaths": [
+    "./__pypackages__/3.10/lib"
+  ]
 }

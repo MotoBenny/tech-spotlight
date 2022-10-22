@@ -2,8 +2,6 @@ import re
 import csv
 
 """
-Global
-TODO: refactor with OOP structure.
 TODO: Type hint the methods/function.
 TODO: add line comments where code is vauge.
 TODO: and pre-commits.
@@ -52,7 +50,7 @@ def get_terms(read_file, terms_file):
     :return: list containing each term and the
     corresponding number of posts mentioning it
     """
-    text_content = open_text(read_file)
+    text_content = open_text(read_file)  # The raw text data
     term_list = open_terms(terms_file)
     data_list = []
     for term in term_list:
