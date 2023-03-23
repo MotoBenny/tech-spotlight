@@ -10,8 +10,8 @@ This is achieved in two parts: a scraper that scrapes data off Indeed.com with f
 
 Enabling and user to get hyper focused insights about the job market and they are interested in, as it pertains to software development
 ___
-## Display
 
+## Display
 
 Example of output after csv file processed by kaggle notebook
 

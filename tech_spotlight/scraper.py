@@ -4,18 +4,27 @@ from bs4 import BeautifulSoup
 import time
 import random
 import sys
-from . import tech_term_search
+import tech_term_search
 
 
 """
 Global
-TODO: typehint menthods/function
-TODO: add inline comments for vauge code or refactor for readability
-TODO: impliment mock with testing for scraper.py
+TODO: typehint inline with PEP8
 DONE: impliment pre-commit / commitizen.
 DONE: rename function/methods for readability
 DONE: refactor control flow prints as variables to call within application flow.
 """
+
+"""
+Indeed implimented Cloudflare which is now blocking
+this style of scrape. Would need to refactor to
+selenium or use proxy-rotation, or a rotation
+of request headers to spoof the request.
+
+Alternatively, we could attempt to location
+the server IP and request the server directly.
+"""
+
 
 # all strings here are used within Main function
 welcome_str = """
@@ -72,25 +81,26 @@ file_query_str = """
     > """
 
 
-def format_url(job_title, location, age, start):
+def format_url(job_title: str, location: str, age: str, start: str) -> str:
     """
     Function receives args and formats URL query for each cycle through scraper.
     :param job_title: string
     :param location: string
     :param age: int
     :param start: int default 0, increments by 10 each iteration of scraper function
-    :return: complete formatted url
+    :return: complete formatted url / string
     """
     get_vars = {"q": job_title, "l": location, "fromage": age, "start": start}
     url = "https://www.indeed.com/jobs?" + urllib.parse.urlencode(get_vars)
     print("your search URL: " + url)
-    page = requests.get(url)
+    page = requests.get(url)  # currently returns HTTP:403
     soup = BeautifulSoup(page.content, "html.parser")
     results = soup.find(class_="jobsearch-ResultsList")
+    print(page)
     return results
 
 
-def get_input():
+def get_input() -> None:
     """
     Function called during scrape execution, this forces a
     pause to get user input, Helping to avoid rate limit.
@@ -122,7 +132,7 @@ def get_input():
         get_input()
 
 
-def main():
+def main() -> None:
     """
     prompts user for search params and calls scraper.
     :return: N/A Calls scraper
@@ -184,7 +194,9 @@ def main():
     )
 
 
-def scraper(job_title: str, location: str, age: int, scrapes: int, filename: str):
+def scraper(
+    job_title: str, location: str, age: int, scrapes: int, filename: str
+) -> None:
     """
     Main application function, calls all other functions to perform the
     requested job scrape.

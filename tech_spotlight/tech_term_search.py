@@ -50,8 +50,10 @@ def get_terms(read_file, terms_file):
     :return: list containing each term and the
     corresponding number of posts mentioning it
     """
-    text_content = open_text(read_file)  # The raw text data
-    term_list = open_terms(terms_file)
+    text_content = open_text(read_file)  # The raw text data from the scrape
+    term_list = open_terms(
+        terms_file
+    )  # the list of all terms to searach for. entered as raw REGEX patterns
     data_list = []
     for term in term_list:
         if term == "Amazon EC2":
